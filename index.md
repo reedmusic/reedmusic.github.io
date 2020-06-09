@@ -9,6 +9,9 @@
 -->
 
 
+# [Music Tech Induction]
+* [Click here for Music Tech induction](induction2020/index.html)
+
 # Teaching
 
 * [Faculty workshop 2020](https://mrreedswchs.github.io/sonicpi2020/index.html)
