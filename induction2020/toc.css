@@ -125,3 +125,8 @@
 #TOC ul {
   font-size: 1.2rem;
 }
+
+h2 {
+  padding-top:15px;
+  border-top: 2px solid darkblue;
+}
