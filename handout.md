@@ -1,3 +1,4 @@
+- TOC
 {:toc}
 
 # Sonic Pi Workshop
@@ -66,13 +67,13 @@ See [reedmusic.net](http://reedmusic.net/) for clickable links etc.
 
 1. Maths
 	* Easy to make addition mistakes so that loops don't synchronise
-2. Sequential programming [rather than concurrency](https://www.youtube.com/watch?v=7sEMKXrRaAs#t=7m05s); slight difficulty of `live_loop` and the friction between concurrent live_loops and linear compositions. This can be bridged with `in_thread`, but which do you privilege in a short SoW?
-3. Music tech
+* Sequential programming [rather than concurrency](https://www.youtube.com/watch?v=7sEMKXrRaAs#t=7m05s); slight difficulty of `live_loop` and the friction between concurrent live_loops and linear compositions. This can be bridged with `in_thread`, but which do you privilege in a short SoW?
+* Music tech
 	* Text based so difficult to visualise, e.g. pitch of notes, envelope shape...
 	* Clunky MIDI and Audio I/O. Compare this to Logic, for example.
-4. Computer science
+* Computer science
 	* Sterility? Relative difficulty of introducing `amp:` options or other expression
-5. Students might be better than you! (problem?)
+* Students might be better than you! (problem?)
 
 ## Resources for learners
 
