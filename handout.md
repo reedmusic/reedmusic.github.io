@@ -25,7 +25,7 @@ Handout from Sonic Pi introduction at [reedmusic.net/sonicpi2020](http://reedmus
 1. Low barrier to entry but difficult to master
 2. Another means of analysing and expressing music
 2. Tangible outcomes or high degree of abstraction:
-	* Art as process? As concept? Music as mechanism?[^2]
+	* Art as process or concept? Music as mechanism?[^2]
 3. Errors highlighted immediately
 4. STEM funding?
 
@@ -128,10 +128,15 @@ A repo of resources at <https://github.com/MrReedSWCHS/resources>
 
 ### Blogs and isolated posts
 
+* [My Year Teaching Sonic Pi](https://in-thread.sonic-pi.net/t/my-year-teaching-sonic-pi-an-intro/208)
+<br>You'll have to search the forums, but he h
 * <https://rbnrpi.wordpress.com/>
 * <https://manwaringmusic.blog/2018/04/24/sonic-pi-diaries-pt-2/>
 * <https://www.bbc.co.uk/programmes/p031dq3j> - Sonic Pi and BBC Ten Pieces
 * <http://ecotronics.ch.honorius.sui-inter.net/wordpress/2017/sonic-pi-advanced-programming/>
+
+### Art thoughts
+* [Conceptual art project](https://www.nga.gov/education/teachers/lessons-activities/new-angles/sol-lewitt.html#:~:text=He's%20still%20an%20artist.%22%20Instead,and%20they%20construct%20the%20work.)
 
 ## Research and further reading
 
@@ -154,5 +159,9 @@ A repo of resources at <https://github.com/MrReedSWCHS/resources>
 * <https://www.patreon.com/samaaron> - Sonic Pi needs support to continue development
 
 
+---
+
+
+
 [^1]: Don't forget to stop! `live_audio :foo, :stop`
-[^2]: Analogies of [process art](https://www.tate.org.uk/art/art-terms/p/process-art) or [conceptual art](https://www.tate.org.uk/art/art-terms/p/process-art), e.g. [Sol LeWitt](https://www.tate.org.uk/art/artworks/lewitt-a-square-divided-horizontally-and-vertically-into-four-equal-parts-each-with-a-p77013), [Haegue Yang](https://www.tate.org.uk/visit/tate-modern/display/materials-and-objects/haegue-yang)
+[^2]: Analogies of [process art](https://www.tate.org.uk/art/art-terms/p/process-art) or [conceptual art](https://www.tate.org.uk/art/art-terms/p/process-art), e.g. Sol LeWitt [1](https://www.tate.org.uk/art/artworks/lewitt-a-square-divided-horizontally-and-vertically-into-four-equal-parts-each-with-a-p77013), [2](https://www.youtube.com/watch?v=Gc-c-pYGCrw), [Haegue Yang](https://www.tate.org.uk/visit/tate-modern/display/materials-and-objects/haegue-yang)...
