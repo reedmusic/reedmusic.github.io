@@ -25,7 +25,7 @@ Handout from Sonic Pi introduction at [reedmusic.net/sonicpi2020](http://reedmus
 1. Low barrier to entry but difficult to master
 2. Another means of analysing and expressing music
 2. Tangible outcomes or high degree of abstraction:
-	* Art as process? Music as mechanism?
+	* Art as process? As concept? Music as mechanism?[^2]
 3. Errors highlighted immediately
 4. STEM funding?
 
@@ -155,3 +155,4 @@ A repo of resources at <https://github.com/MrReedSWCHS/resources>
 
 
 [^1]: Don't forget to stop! `live_audio :foo, :stop`
+[^2]: Analogies of [process art](https://www.tate.org.uk/art/art-terms/p/process-art) or [conceptual art](https://www.tate.org.uk/art/art-terms/p/process-art), e.g. [Sol LeWitt](https://www.tate.org.uk/art/artworks/lewitt-a-square-divided-horizontally-and-vertically-into-four-equal-parts-each-with-a-p77013), [Haegue Yang](https://www.tate.org.uk/visit/tate-modern/display/materials-and-objects/haegue-yang)
