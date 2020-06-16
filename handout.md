@@ -10,9 +10,9 @@ title: Sonic Pi Workshop
 
 Handout from Sonic Pi introduction at [reedmusic.net/sonicpi2020](http://reedmusic.net/sonicpi2020)
 
-See [reedmusic.net](http://reedmusic.net/) for clickable links etc.
+<!-- See [reedmusic.net](http://reedmusic.net/) for clickable links etc. -->
 
-# Contents
+## Contents
 {: .no_toc}
 
 - TOC
