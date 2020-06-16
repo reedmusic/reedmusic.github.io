@@ -2,7 +2,9 @@
 title: Sonic Pi Workshop
 ---
 
-# Dummy
+# Sonic Pi Workshop
+{: .no_toc}
+
 *Faculty of Education, 19 June 2019, rev. June 2020*
 <br>*E Reed. ereed - at - swchs.net*
 
