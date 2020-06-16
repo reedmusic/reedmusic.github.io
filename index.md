@@ -13,7 +13,8 @@
 
 # Teaching
 
-* [Faculty workshop 2020](https://mrreedswchs.github.io/sonicpi2020/index.html)
+* [Sonic Pi Faculty workshop 2020](https://mrreedswchs.github.io/sonicpi2020/index.html)
+	* Handout
 
 <!--
 * [Faculty workshop, 2019](https://github.com/MrReedSWCHS/sonicpi-190619)
