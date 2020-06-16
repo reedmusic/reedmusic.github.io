@@ -78,13 +78,13 @@ Handout from Sonic Pi introduction at [reedmusic.net/sonicpi2020](http://reedmus
 
 1. Maths
 	* Easy to make addition mistakes so that loops don't synchronise
-* Sequential programming [rather than concurrency](https://www.youtube.com/watch?v=7sEMKXrRaAs#t=7m05s); slight difficulty of `live_loop` and the friction between concurrent live_loops and linear compositions. This can be bridged with `in_thread`, but which do you privilege in a short SoW?
-* Music tech
+2. Sequential programming [rather than concurrency](https://www.youtube.com/watch?v=7sEMKXrRaAs#t=7m05s); slight difficulty of `live_loop` and the friction between concurrent live_loops and linear compositions. This can be bridged with `in_thread`, but which do you privilege in a short SoW?
+3. Music tech
 	* Text based so difficult to visualise, e.g. pitch of notes, envelope shape...
 	* Clunky MIDI and Audio I/O. Compare this to Logic, for example.
-* Computer science
+4. Computer science
 	* Sterility? Relative difficulty of introducing `amp:` options or other expression
-* Students might be better than you! (problem?)
+5. Students might be better than you! (problem?)
 
 ## Resources for learners
 
@@ -128,8 +128,7 @@ A repo of resources at <https://github.com/MrReedSWCHS/resources>
 
 ### Blogs and isolated posts
 
-* [My Year Teaching Sonic Pi](https://in-thread.sonic-pi.net/t/my-year-teaching-sonic-pi-an-intro/208)
-<br>You'll have to search the forums, but he h
+* ["My Year Teaching Sonic Pi"](https://in-thread.sonic-pi.net/t/my-year-teaching-sonic-pi-an-intro/208) - You'll have to search the forums, but he has written about his experiences over 22 weeks.
 * <https://rbnrpi.wordpress.com/>
 * <https://manwaringmusic.blog/2018/04/24/sonic-pi-diaries-pt-2/>
 * <https://www.bbc.co.uk/programmes/p031dq3j> - Sonic Pi and BBC Ten Pieces
@@ -160,8 +159,6 @@ A repo of resources at <https://github.com/MrReedSWCHS/resources>
 
 
 ---
-
-
 
 [^1]: Don't forget to stop! `live_audio :foo, :stop`
 [^2]: Analogies of [process art](https://www.tate.org.uk/art/art-terms/p/process-art) or [conceptual art](https://www.tate.org.uk/art/art-terms/p/process-art), e.g. Sol LeWitt [1](https://www.tate.org.uk/art/artworks/lewitt-a-square-divided-horizontally-and-vertically-into-four-equal-parts-each-with-a-p77013), [2](https://www.youtube.com/watch?v=Gc-c-pYGCrw), [Haegue Yang](https://www.tate.org.uk/visit/tate-modern/display/materials-and-objects/haegue-yang)...
