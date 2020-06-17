@@ -55,15 +55,10 @@ Handout from Sonic Pi introduction at [reedmusic.net/sonicpi2020](http://reedmus
 	* **Live audio in** through `synth :sound_in` and `live_audio`[^1]
 3. Computer science
 	* Loops + **iteration**
-	* Ruby methods (playing with strings of notes to change their order)
-		* [.tick and .look](https://www.youtube.com/watch?v=dJ6RIX3-S7g)
-		* .ring
-		* .reverse
-		* .take(n) .drop(n), .drop\_last(n), take\_last(n)
-		* .stretch(n), .repeat(n), .mirror, .reflect
-		* 
-		* .sort
-		* .choose
+	* [Ruby methods](https://sonic-pi.net/tutorial.html#section-8-5) (playing with strings of notes to change their order)
+		* [`.tick` and `.look`](https://www.youtube.com/watch?v=dJ6RIX3-S7g)
+		* `.reverse`
+		* Randomisation with `.choose` and `.shuffle`
 	* [Chaining a ring](https://www.youtube.com/watch?v=dJ6RIX3-S7g)
 	* [Defining and recalling functions](https://projects.raspberrypi.org/en/projects/generic-sonicpi-function)
 		* [Piping variables into the function](https://youtu.be/rEd58lE2H-Q)
@@ -90,6 +85,11 @@ Handout from Sonic Pi introduction at [reedmusic.net/sonicpi2020](http://reedmus
 
 A repo of resources at <https://github.com/MrReedSWCHS/resources>
 
+### Forum
+
+* [in-thread.sonic-pi.net](https://in-thread.sonic-pi.net/)
+<br>Official forums
+
 ### mehackit
 * <https://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html>
 <br>Excellent and comprehensive course from beginner to expert. Lots of links to music theory and accompanying graphics/explanations. Highly recommended for use in lessons.
@@ -106,6 +106,12 @@ A repo of resources at <https://github.com/MrReedSWCHS/resources>
 <br>Magpi magazine. A bit old now but a great PDF resource. Good ideas for making printed resources of your own.
 
 ### Sam Aaron
+
+* <https://www.instagram.com/samaaron>
+
+* <https://www.youtube.com/watch?v=TK1mBqKvIyU> - TED talk
+
+* <https://vimeo.com/363992110> - Determinism, synchronicity and concurrency
 
 * <https://sonic-pi.net/tutorial.html>
 <br>The easiest resource, since it's baked into the app itself (just click the *Help* button in Sonic Pi). A great online resource too, presented in an ebook style.
