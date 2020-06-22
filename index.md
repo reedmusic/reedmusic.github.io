@@ -8,14 +8,15 @@
 
 -->
 
-![](img/mix1000x170.jpg)
+<!-- ![](img/mix1000x170.jpg) -->
 
 # Music Tech Induction 2020
 * [Click here for Music Tech induction](induction2020/index.html)
 
 <hr>
 
-![](img/pi1000x170.jpg)
+
+<!-- ![](img/pi1000x170.jpg) -->
 
 # Teaching
 
