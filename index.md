@@ -28,10 +28,7 @@
   * [Presentation](https://mrreedswchs.github.io/pres/pres.html)
 -->
 
-* Symbolic 8s
-
-    * <symbolic8s_2.htm>
-
-    * <symbolic8s.htm>
-
-    * <symbolic54.htm>
+* Symbolic 8s grids
+    * [8s](symbolic/symbolic8s.htm)
+    * [8s, 2 rows](symbolic/symbolic8s_2.htm)
+    * [5/4](symbolic/symbolic54.htm)
