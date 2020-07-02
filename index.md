@@ -29,6 +29,8 @@
 -->
 
 * Symbolic 8s grids
-    * [8s](symbolic/symbolic8s.htm)
-    * [8s, 2 rows](symbolic/symbolic8s_2.htm)
+    * 4/4
+        * [1 row](symbolic/symbolic8s.htm)
+        * [2 rows](symbolic/symbolic8s_2.htm)
+        * [4 rows](symbolic/symbolic8s_4.htm)
     * [5/4](symbolic/symbolic54.htm)
