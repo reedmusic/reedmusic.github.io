@@ -10,6 +10,8 @@
 
 <!-- ![](img/mix1000x170.jpg) -->
 
+# [Year 8 click here](https://swchsmusic.gitbook.io/y8-music/)
+
 # Music Tech Induction 2020
 * [Click here for Music Tech induction](induction2020/index.html)
 
