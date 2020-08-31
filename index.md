@@ -20,17 +20,10 @@
 <hr>
 
 
-<!-- ![](img/pi1000x170.jpg) -->
-
 # Teaching
-
-* [Sonic Pi Faculty workshop 2020](https://mrreedswchs.github.io/sonicpi2020/index.html)
+* Sonic Pi Faculty workshop 2020
+	* Please [contact me](mailto:ereed@swchs.net) for the workshop videos
 	* [Handout](handout.html)
-
-<!--
-* [Faculty workshop, 2019](https://github.com/MrReedSWCHS/sonicpi-190619)
-  * [Presentation](https://mrreedswchs.github.io/pres/pres.html)
--->
 
 * Symbolic 8s grids
     * 4/4
