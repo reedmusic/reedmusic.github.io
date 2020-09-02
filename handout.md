@@ -9,8 +9,6 @@ title: Sonic Pi Workshop
 *Faculty of Education, 19 June 2019, rev. June 2020*
 <br>*E Reed. ereed - at - swchs.net*
 
-Handout from Sonic Pi introduction at [reedmusic.net/sonicpi2020](http://reedmusic.net/sonicpi2020)
-
 <!-- See [reedmusic.net](http://reedmusic.net/) for clickable links etc. -->
 
 ## Contents
