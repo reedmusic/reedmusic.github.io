@@ -28,7 +28,7 @@ Written and video instructions to follow.
 
 ## MCQ Machine
 
-![](mcq.jpg)
+![](mcq.png)
 
 The MCQ machine generates five multiple-choice questions from a list. You turn individual questions on or off in the **Questions** sheet and Excel will randomly choose five questions.
 
