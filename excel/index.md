@@ -7,9 +7,11 @@
 
 ## Retrieval Roulette
 
-The roulette is a bank of questions which are made into a short, random, low-stakes quizzes for students. They can be used for retrieval practice, since questions from previous topics or current topics are mixed up randomly (at your control).
+![](roulette.jpg)
 
-I read about Excel models in [Adam Boxer's blog](https://achemicalorthodoxy.wordpress.com/2018/08/18/retrieval-roulettes/).
+The roulette is a bank of questions which are made into a short, random, low-stakes quizzes. They can support retrieval practice and spaced repetition: questions from previous and current topics are mixed up randomly (at your control).
+
+I read about Excel models in [Adam Boxer's blog](https://achemicalorthodoxy.wordpress.com/2018/08/18/retrieval-roulettes/). Links to many differente examples at the bottom. There is probably one for your subject.
 
 My model is simple and flexible.
 
@@ -25,6 +27,8 @@ My model is simple and flexible.
 Written and video instructions to follow.
 
 ## MCQ Machine
+
+![](mcq.jpg)
 
 The MCQ machine generates five multiple-choice questions from a list. You turn individual questions on or off in the **Questions** sheet and Excel will randomly choose five questions.
 
