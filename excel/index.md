@@ -32,7 +32,10 @@ The answers, A to D, for each question are in a random order which changes each 
 
 ### Instructions
 
-1. Add a question and up to four possible answers.
-2. Type Y to include this question in the pool of questions that may be randomly chose.
+1. Type a new question and up to four responses. Correct answer goes in final column. If not spelled identically, this will fail.
+2. Type Y to include this question in the pool that may be randomly chosen.
 3. You can leave rows blank or add headings to organise topics/weeks etc.
 4. Select a number of the yellow cells, then press Ctrl+Enter to type 'Y' into many cells at once (for example to select questions for an entire topic).
+
+
+Thoughts on writing [high-quality MCQs](https://testing.byu.edu/handbooks/14%20Rules%20for%20Writing%20Multiple-Choice%20Questions.pdf).
