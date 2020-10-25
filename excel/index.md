@@ -41,7 +41,7 @@ The MCQ machine generates five multiple-choice questions from a list. You turn i
 
 Thoughts on writing [high-quality MCQs](https://testing.byu.edu/handbooks/14%20Rules%20for%20Writing%20Multiple-Choice%20Questions.pdf).
 
-# Extensible Exercise
+## Extensible Exercise
 
 An adaptation to a Roulette based on single-word KS4 glossary.
 
