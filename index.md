@@ -20,7 +20,7 @@
 
 # For teachers
 
-* [Excel Tools](excel/excel.html)
+* [Excel Tools](/excel)
 
 * Sonic Pi Faculty workshop 2020
 	* Please [contact me](mailto:ereed@swchs.net) for the workshop videos
