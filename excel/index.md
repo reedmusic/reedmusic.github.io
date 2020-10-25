@@ -30,14 +30,12 @@ Written and video instructions to follow.
 
 ![](mcq.png)
 
-The MCQ machine generates five multiple-choice questions from a list. You turn individual questions on or off in the **Questions** sheet and Excel will randomly choose five questions.
-
-The answers, A to D, for each question are in a random order which changes each time.
+The MCQ machine generates five multiple-choice questions from a list. You turn individual questions on or off in the **Questions** sheet and Excel will randomly choose five. The order of the responses are also randomised.
 
 ### Instructions
 
 1. Type a new question and up to four responses. Correct answer goes in final column. If not spelled identically, this will fail.
-2. Type Y to include this question in the pool that may be randomly chosen.
+2. Type Y to include that row in the pool of possible questions.
 3. You can leave rows blank or add headings to organise topics/weeks etc.
 4. Select a number of the yellow cells, then press Ctrl+Enter to type 'Y' into many cells at once (for example to select questions for an entire topic).
 
