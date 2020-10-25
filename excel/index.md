@@ -1,4 +1,9 @@
 # Excel tools
+{: .no_toc}
+
+- TOC
+{:toc}
+
 
 ## Retrieval Roulette
 
