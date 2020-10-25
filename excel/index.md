@@ -11,9 +11,7 @@
 
 The roulette is a bank of questions used to automatically construct a random, low-stakes quiz. It supports retrieval practice and spaced repetition: questions from previous and current topics are mixed up randomly (at your control).
 
-I read about Excel models in [Adam Boxer's blog](https://achemicalorthodoxy.wordpress.com/2018/08/18/retrieval-roulettes/). Links to many differente examples at the bottom. There is probably one for your subject.
-
-My model is simple and flexible.
+The model is simple and flexible.
 
 * The **Questions** sheet holds all the questions and answers
 * The **Options** sheet selects which topics to include
@@ -21,6 +19,8 @@ My model is simple and flexible.
 	* Leaving the answer blank or the question blank
 	* Knowledge-organiser style, with different elements blanked out (less useful, but has prompted some imaginative responses in class)
 	* A **Print Q** sheet designed to fill A4 paper for homework or a test
+
+For more information about roulettes, see [Adam Boxer's blog](https://achemicalorthodoxy.wordpress.com/2018/08/18/retrieval-roulettes/). Links to many different examples at the bottom.
 
 ### Instructions
 
