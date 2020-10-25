@@ -9,16 +9,16 @@
 
 ![](roulette.jpg)
 
-The roulette is a bank of questions used to automatically construct a random, low-stakes quiz. It supports retrieval practice and spaced repetition: questions from previous and current topics are mixed up randomly (at your control).
+The roulette is a bank of questions used to automatically construct a random quiz. 
+
+It supports retrieval practice and spaced repetition: questions from previous and current topics are mixed up randomly (at your control).
 
 The model is simple and flexible.
 
-* The **Questions** sheet holds all the questions and answers
-* The **Options** sheet selects which topics to include
-* The following sheets ask questions in a number of ways, including
-	* Leaving the answer blank or the question blank
-	* Knowledge-organiser style, with different elements blanked out (less useful, but has prompted some imaginative responses in class)
-	* A **Print Q** sheet designed to fill A4 paper for homework or a test
+* **Questions** sheet holds all the questions and answers
+* **Options** sheet selects which topics to include
+* The following sheets quiz in both directions
+* **Print Q** sheet designed to fill A4 paper for homework or test
 
 For more information about roulettes, see [Adam Boxer's blog](https://achemicalorthodoxy.wordpress.com/2018/08/18/retrieval-roulettes/). Links to many different examples at the bottom.
 
@@ -39,5 +39,17 @@ The MCQ machine generates five multiple-choice questions from a list. You turn i
 3. You can leave rows blank or add headings to organise topics/weeks etc.
 4. Select a number of the yellow cells, then press Ctrl+Enter to type 'Y' into many cells at once (for example to select questions for an entire topic).
 
-
 Thoughts on writing [high-quality MCQs](https://testing.byu.edu/handbooks/14%20Rules%20for%20Writing%20Multiple-Choice%20Questions.pdf).
+
+# Extensible Exercise
+
+An adaptation to a Roulette based on single-word KS4 glossary.
+
+In the **Glossary** sheet, toggle single terms on and off with 'Y'.
+
+Optional 'extra' questions can be specified with 'X'. These appear as the final 3 questions of a 10-question quiz.
+
+![](ext.png)
+
+
+
