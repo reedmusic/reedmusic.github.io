@@ -11,17 +11,16 @@
 
 # For students
 
-## [Year 8 click here](https://swchsmusic.gitbook.io/y8-music/)
+* [Year 8 click here](https://swchsmusic.gitbook.io/y8-music/)
+* [Music Tech Induction 2020](induction2020/index.html)
 
 
-
-## [Music Tech Induction 2020](induction2020/index.html)
 
 <hr>
 
 # For teachers
 
-## My resources
+* [Excel Tools](excel/excel.html)
 * Sonic Pi Faculty workshop 2020
 	* Please [contact me](mailto:ereed@swchs.net) for the workshop videos
 	* [Handout](handout.html)
@@ -31,7 +30,7 @@
 	* [5/4](symbolic/symbolic54.htm)
 
 
-## Useful links
+# For me
 
 
 * [Manuscript](https://www.dolmetsch.com/manuscriptpaper.htm)
