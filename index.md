@@ -21,6 +21,7 @@
 # For teachers
 
 * [Excel Tools](excel/excel.html)
+
 * Sonic Pi Faculty workshop 2020
 	* Please [contact me](mailto:ereed@swchs.net) for the workshop videos
 	* [Handout](handout.html)
@@ -29,6 +30,8 @@
 	* 4/4: [1 row](symbolic/symbolic8s.htm); [2 rows](symbolic/symbolic8s_2.htm); [4 rows](symbolic/symbolic8s_4.htm)
 	* [5/4](symbolic/symbolic54.htm)
 
+
+<hr>
 
 # For me
 
