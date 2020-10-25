@@ -9,7 +9,7 @@
 
 ![](roulette.jpg)
 
-The roulette is a bank of questions which are made into a short, random, low-stakes quizzes. They can support retrieval practice and spaced repetition: questions from previous and current topics are mixed up randomly (at your control).
+The roulette is a bank of questions used to automatically construct a random, low-stakes quiz. It supports retrieval practice and spaced repetition: questions from previous and current topics are mixed up randomly (at your control).
 
 I read about Excel models in [Adam Boxer's blog](https://achemicalorthodoxy.wordpress.com/2018/08/18/retrieval-roulettes/). Links to many differente examples at the bottom. There is probably one for your subject.
 
