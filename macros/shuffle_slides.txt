@@ -1,0 +1,12 @@
+
+FirstSlide = 2
+LastSlide = 7
+Randomize
+
+'generate random number between 2 to 7
+RSN = Int((LastSlide - FirstSlide + 1) * Rnd + FirstSlide)
+
+For i = FirstSlide To LastSlide
+ActivePresentation.Slides(i).MoveTo (RSN)
+Next i
+

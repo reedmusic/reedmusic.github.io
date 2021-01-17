@@ -35,7 +35,9 @@
 
 # For me
 
-* [PPT Macro to delete speaker notes](macro.txt)
+* Macros
+	* [Delete notes](macros\del_notes.txt)
+	* [Random order](macros\shuffle_slides.txt)
 * [Portal](https://portal.office.com)
   * [Sharepoint root](https://swchs365.sharepoint.com/sites/MusicDepartment/Shared%20Documents/Forms/AllItems.aspx)
 * [Manuscript](https://www.dolmetsch.com/manuscriptpaper.htm)
