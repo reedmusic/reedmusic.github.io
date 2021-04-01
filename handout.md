@@ -1,5 +1,5 @@
 ---
-layout: 123
+layout: wide
 title: Sonic Pi Workshop
 ---
 
