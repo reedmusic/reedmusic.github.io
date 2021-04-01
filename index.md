@@ -44,9 +44,8 @@
 	* [Blank](https://www.dolmetsch.com/blankmanuscript6portwiderule.pdf)
 	* [Grand staff](https://www.dolmetsch.com/blankmanuscriptpiano4large.pdf)
 	* [Piano + soloist](http://www.musicsheaf.com/cgi-bin/mspaper?name=blank3x4&type=pdf)
-* Manuscript for printing
 	* [Note-taking L](http://www.musicsheaf.com/cgi-bin/mspaper?name=theoryr12&type=pdf)
-	* [Note-taking R](http://www.musicsheaf.com/paper/theoryl12/index-big.html)
+	* [Note-taking R](http://www.musicsheaf.com/cgi-bin/mspaper?name=theoryl12&type=pdf)
 
 * Textbooks
 	* [Dolmetsch Textbook](https://www.dolmetsch.com/theoryintro.htm)
