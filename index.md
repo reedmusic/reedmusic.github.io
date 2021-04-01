@@ -52,6 +52,7 @@
 	* <http://learnmusictheory.net/>
 	* <https://www.musictheory.net/>
 	* [Music T for 21C classroom](https://musictheory.pugetsound.edu/mt21c/ExamplesWithAugmentedSixthChords.html)
+	* [OMT](http://openmusictheory.com/contents.html)
 	
 * [Dolmetsch Dictionary](https://www.dolmetsch.com/theoryindex.htm)
 
