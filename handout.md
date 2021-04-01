@@ -124,7 +124,7 @@ A repo of resources at <https://github.com/MrReedSWCHS/resources>
 <br>Dave Conservatoire. 30 videos! Great stuff. While you're at it, check out his [MuseScore series](https://www.youtube.com/watch?v=vVXjsQR8zqo&list=PLaitaNxyd8SE_D6PtNvA5vXn8VpXsbA7Z)
 
 * <https://www.youtube.com/playlist?list=PLxJoOXhg8m5LbBzczDCeZ4wzky1K578SS>
-<br>Davids Fiddle. Excellent, eye-opening tutorial series. A real computer science perspective, as opposed to Dave Conservatoire which is more musical.
+<br>Excellent series. A real computer science perspective, as opposed to Dave Conservatoire which is more musical.
 
 ### Codecademy: Ruby
 
