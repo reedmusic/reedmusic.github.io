@@ -18,11 +18,11 @@ Make sure the definition is in the `live_loop` or it will not update when you hi
 ```ruby
 
 live_loop :chord do
-
-  x = chord(:e4, :minor)
-
-  play x, release 0.5
   
+  x = chord(:e4, :minor)
+  
+  play x.tick, release: 0.2
   sleep 1.0/8
-
+  
 end
+```
