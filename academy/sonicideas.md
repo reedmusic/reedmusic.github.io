@@ -15,8 +15,7 @@ Two (or several?) `live_loop`s, each at a different tempo (e.g. `use_tempo 120`)
 
 Make sure the definition is in the `live_loop` or it will not update when you hit run again.
 
-```ruby
-
+```
 live_loop :chord do
   
   x = chord(:e4, :minor)
