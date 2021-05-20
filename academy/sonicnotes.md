@@ -12,7 +12,7 @@ play [:e4, :g4, :b4]
 
 # Envelopes and loops
 
-
+```
 live_loop :chords do
   
   play chord(:e4,:M7), attack: 8, release: 8
@@ -24,3 +24,6 @@ live_loop :chords do
   sleep 2
   
 end
+```
+
+
