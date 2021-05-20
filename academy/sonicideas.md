@@ -11,5 +11,18 @@ Here are some ideas.
 ## Phasing a la Steve Reich
 Two (or several?) `live_loop`s, each at a different tempo (e.g. `use_tempo 120`)
 
-## This
+## Define variables that you can later control
 
+Make sure the definition is in the `live_loop` or it will not update when you hit run again.
+
+```ruby
+
+live_loop :chord do
+
+  x = chord(:e4, :minor)
+
+  play x, release 0.5
+  
+  sleep 1.0/8
+
+end
