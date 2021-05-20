@@ -26,4 +26,19 @@ live_loop :chords do
 end
 ```
 
+# FX, .choose
 
+```
+live_loop :weird do
+  
+  with_fx :reverb, mix: 0.4 do
+      
+    
+    play chord(:e4, :minor).choose,
+      pan: [-1,1].choose, release: 0.25
+    
+    sleep 0.25
+  end
+  
+end
+\\\
