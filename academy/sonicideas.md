@@ -1,3 +1,9 @@
+---
+layout: wide
+title: Sonic Pi Ideas
+---
+
+
 # Sonic Ideas
 
 Here are some ideas.
