@@ -1,6 +1,6 @@
 # Sequencer
 
-## Generating rhythm
+## 1. Generating rhythm
 
 Use the `amp:` option for `play` or `sample` to change its volume, or amplitude.
 
@@ -8,7 +8,7 @@ Use the `amp:` option for `play` or `sample` to change its volume, or amplitude.
 
 Use square brackets and `.tick` through them:
 
-```
+```ruby
 live_loop :sequencer do
   
   use_bpm 120
@@ -21,10 +21,11 @@ live_loop :sequencer do
 end
 ```
 
-## Layers
+## 2. Layers
 
 Copy and paste, but don't forget to use `.look` instead of `.tick`
 
+```ruby
 live_loop :sequencer do
   
   use_bpm 120
@@ -41,3 +42,4 @@ live_loop :sequencer do
   sleep 1.0/4
   
 end
+```
