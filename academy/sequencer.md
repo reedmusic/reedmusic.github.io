@@ -20,3 +20,24 @@ live_loop :sequencer do
   
 end
 ```
+
+## Layers
+
+Copy and paste, but don't forget to use `.look` instead of `.tick`
+
+live_loop :sequencer do
+  
+  use_bpm 120
+  
+  sample :drum_cymbal_closed, amp:
+    [1,0,1,1, 0,1,0,0, 1,0,0,0, 1,1,0,0].tick
+  
+  sample :bd_haus, amp:
+    [1,0,0,0, 1,0,0,0, 1,0,0,0, 1,1,0,0].look
+  
+  sample :drum_snare_hard, amp:
+    [0,0,0,0, 1,0,0,0, 0,1,0,0, 1,0,0,1].look
+  
+  sleep 1.0/4
+  
+end
