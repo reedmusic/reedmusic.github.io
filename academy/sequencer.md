@@ -1,13 +1,8 @@
----
-title: Sequencer
-layout: wide
----
-
 # Sequencer
 
 ## 1. Generating rhythm
 
-Use the `amp:` option for `play` or `sample` to change its volume, or amplitude.
+Use the `amp:` option to change amplitude (for either synths or samples)
 
 `play :c4, amp: 0.75`
 
