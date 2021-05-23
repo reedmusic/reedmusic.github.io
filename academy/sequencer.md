@@ -44,6 +44,38 @@ live_loop :sequencer do
 end
 ```
 
+### Polyrhythm
+
+Not all layers have to be the same length:
+
+```ruby
+live_loop :sequencer do
+  use_bpm 120
+  
+  # Drums
+  
+  sample :drum_cymbal_closed, amp:
+    [1,0,1,1, 0,1,0,0, 1,0,0,0, 1,1,0,0].tick
+  
+  sample :bd_klub, amp:
+    [1,0,0,0,0].look
+  
+  sample :drum_tom_hi_soft, amp:
+    [1,0.8,0,0,0.75,0,1,0,0,0,0].look
+  
+  sample :drum_tom_mid_soft, amp:
+    [1,0.8,0,0,0.75,0,1,0,0].reverse.look
+  
+  sample :drum_cowbell, amp:
+    [1,0,0, 1,0,0, 1,0,0, 1,0,0, 1,0,0, 1,1,0,1].look * 0.5
+  
+  sleep 1.0/4
+end
+```
+
+
+
+
 ## 3. Ghost notes
 
 Numbers between 0 and 1 for more subtle volume changes.
