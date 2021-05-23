@@ -1,6 +1,6 @@
 # Installations
 
-# 1: 4h33
+## 1: 4h33
 
 ```
 # John Cage composed 4'33" in 1952
@@ -89,7 +89,7 @@ live_loop :drums do
 end
 ```
 
-## Onset Remix
+### 3. Onset Remix
 
 ```
 live_loop :sample do
