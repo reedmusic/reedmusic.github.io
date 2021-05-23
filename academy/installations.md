@@ -215,3 +215,30 @@ end
 
 
 ```
+
+
+## 4. Blinded Lights
+
+```ruby
+
+s = "Users/School/Desktop/blind1.wav"
+
+
+live_loop :blinding do
+  
+  with_fx :gverb, mix: 0.4 do
+    sample s, rate: rrand(0.2,1.5), attack: 1, release: 1, pan: rrand(-1, 1)
+    sleep rrand(1,3)*0.7
+  end
+end
+
+live_loop :boom do
+  
+  with_fx :echo, decay: 16 do
+    
+    sample "Users/School/Desktop/blind2.wav", onset: 5, rate: rrand(-2,-5), amp: 0.6
+    sleep 12
+  end
+end
+
+```
