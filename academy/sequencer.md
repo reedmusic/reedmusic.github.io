@@ -152,7 +152,7 @@ live_loop :sequencer do
 end
 ```
 
-## Bassline
+## 6. Bassline
 
 * `chord()` to define some notes
 * `.choose` to randomise
@@ -163,5 +163,47 @@ end
 ```ruby
 use_synth :tb303
 play chord(:b1, 'm6*9', num_octaves: 2).choose, release: 0.2, amp: [0,1,1,1,1,0.5].choose
+```
+
+### In context:
+
+```ruby
+live_loop :sequencer do
+  use_bpm 120
+  
+  # Drums
+  
+  sample :drum_cymbal_closed, amp:
+    [1,0,1,1, 0,1,0,0, 1,0,0,0, 1,1,0,0].tick
+  
+  sample :drum_cymbal_closed, amp: 0.2
+  
+  sample :bd_haus, amp:
+    [1,0,0,0, 1,0,0,0, 1,0,0,0, 1,1,0,1].look
+  
+  sample :drum_snare_hard, amp:
+    [0,0.2,0,0, 1,0,0,0.1, 0,1,0,0, 1,0,0.75,0.25].look
+  
+  # More cowbell
+  
+  with_fx :echo, mix: 0.2 do
+    sample :drum_cowbell, amp:
+      [1,0,0,1, 0,0,1,0, 0,0,1,0, 0,1,0,0].look * 0.5
+  end
+  
+  # Toms
+  
+  sample :drum_tom_lo_hard, pan: -0.5, amp: 0.5 if one_in(12)
+  sample :drum_tom_hi_hard, pan: -0.5, amp: 0.5 if one_in(10)
+  sample :drum_tom_mid_soft, pan: 0.5, amp: 0.5 if one_in(5)
+  
+  # Bass
+  
+  use_synth :tb303
+  play chord(:b1, 'm6*9', num_octaves: 2).choose, release: 0.2, amp: [0,1,1,1,1,0.5].choose
+  
+  
+  sleep 1.0/4
+end
 ```
 
