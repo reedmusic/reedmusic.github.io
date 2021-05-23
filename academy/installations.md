@@ -54,7 +54,7 @@ live_loop :vinyl do
 end
 ```
 
-# 2: Probabalistic Drums
+## 2: Probabalistic Drums
 
 ```ruby
 live_loop :drums do
@@ -89,7 +89,7 @@ live_loop :drums do
 end
 ```
 
-### 3. Onset Remix
+## 3. Onset Remix
 
 ```ruby
 live_loop :sample do
@@ -138,7 +138,7 @@ end
 ```
 
 
-## Remixed
+### Remixed
 
 
 ```ruby
