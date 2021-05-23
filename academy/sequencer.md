@@ -107,7 +107,7 @@ sample :drum_cowbell, amp:
 
 Use `if` and `one_in(x)` to set up random drum hits. Good for toms!
 
-```
+```ruby
   sample :drum_tom_lo_hard, pan: -0.5, amp: 0.5 if one_in(12)
   sample :drum_tom_hi_hard, pan: -0.5, amp: 0.5 if one_in(10)
   sample :drum_tom_mid_soft, pan: 0.5, amp: 0.5 if one_in(5)
@@ -117,7 +117,7 @@ Use `if` and `one_in(x)` to set up random drum hits. Good for toms!
 
 Using `:echo` on the cowbell...
 
-```
+```ruby
 live_loop :sequencer do
   use_bpm 120
    
