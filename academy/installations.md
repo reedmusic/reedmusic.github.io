@@ -181,7 +181,7 @@ live_loop :sample do
       end
       
       
-      if rand > 0.8 then
+      if one_in(4) then
         
         8.times do
           sample "Users/School/Desktop/blind2.wav", onset: 16, rate: rrand(-0.5,5)
@@ -206,8 +206,12 @@ end
 
 live_loop :bass do
   with_fx :gverb, mix: 0.1 do
-    sample :bd_zome, amp: 1.5
+    sample :bd_zome, amp: 1.5 if rand < 0.95
     sleep 1
   end
 end
+
+
+
+
 ```
