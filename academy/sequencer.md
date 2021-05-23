@@ -151,3 +151,17 @@ live_loop :sequencer do
   sleep 1.0/4
 end
 ```
+
+## Bassline
+
+* `chord()` to define some notes
+* `.choose` to randomise
+* `release: 0.2` option to shorten notes
+* `amp: [0,1,1,1,1,0.5].choose` to introduce some random rhythm. 
+
+
+```ruby
+use_synth :tb303
+play chord(:b1, 'm6*9', num_octaves: 2).choose, release: 0.2, amp: [0,1,1,1,1,0.5].choose
+```
+
