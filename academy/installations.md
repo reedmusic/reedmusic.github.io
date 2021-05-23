@@ -88,3 +88,51 @@ live_loop :drums do
   end
 end
 ```
+
+## Onset Remix
+
+```
+live_loop :sample do
+  use_random_seed 100
+  
+  c = [130,130,130,130,70,100].tick
+  r = [0.4, 0.4, 0.4, 0.4, 0.7, 0.6].look
+  
+  use_sample_defaults cutoff: c
+  
+  
+  with_fx :reverb, mix: r do
+    with_fx :pan, mix: 0.8 do
+      
+      
+      
+      16.times do
+        sample "Users/School/Desktop/blind2.wav", onset: [0,1,2,3,4,5,7,8,9,11,13,14,17,20].choose,
+          rate: [1,1,-1].choose
+        sleep 1.0/8
+      end
+      
+      8.times do
+        sample "Users/School/Desktop/blind2.wav", onset: [0,1,2,3,4,5,7,8,9,11,13,14,17,20].choose,
+          rate: 3.0/2
+        sleep 1.0/8
+      end
+      
+      8.times do
+        sample "Users/School/Desktop/blind2.wav", onset: [0,1,2,3,4,5,7,8,9,11,13,14,17,20].choose,
+          rate: ((3.0/2)**2)/2
+        sleep 1.0/8
+      end
+      
+    end
+  end
+end
+
+
+live_loop :bass do
+  with_fx :gverb, mix: 0.1 do
+    sample :bd_zome, amp: 1.5
+    sleep 1
+  end
+end
+```
