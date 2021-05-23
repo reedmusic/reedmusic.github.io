@@ -67,7 +67,7 @@ live_loop :sequencer do
 end
 ```
 
-## Subtle layers
+## 4. Subtle layers
 
 No need for each layer to be `.tick`ed.
 
@@ -96,4 +96,58 @@ live_loop :sequencer do
 end
 ```
 
+## 4. Changing volume and randomisation
 
+Use some maths e.g. `* 0.5` after the `amp:` values to change all volumes:
+
+```
+sample :drum_cowbell, amp:
+      [1,0,0,1, 0,0,1,0, 0,0,1,0, 0,1,0,0].look * 0.5
+```
+
+Use `if` and `one_in(x)` to set up random drum hits. Good for toms!
+
+```
+  sample :drum_tom_lo_hard, pan: -0.5, amp: 0.5 if one_in(12)
+  sample :drum_tom_hi_hard, pan: -0.5, amp: 0.5 if one_in(10)
+  sample :drum_tom_mid_soft, pan: 0.5, amp: 0.5 if one_in(5)
+```
+  
+## 5. FX on specific layers
+
+Using `:echo` on the cowbell...
+
+```
+live_loop :sequencer do
+  use_bpm 120
+   
+  # Drums
+  
+  sample :drum_cymbal_closed, amp:
+    [1,0,1,1, 0,1,0,0, 1,0,0,0, 1,1,0,0].tick
+  
+  sample :drum_cymbal_closed, amp: 0.2
+  
+  sample :bd_haus, amp:
+    [1,0,0,0, 1,0,0,0, 1,0,0,0, 1,1,0,0].look
+  
+  sample :drum_snare_hard, amp:
+    [0,0.2,0,0, 1,0,0,0.1, 0,1,0,0, 1,0,0.75,0.25].look
+  
+  # More cowbell
+  
+  with_fx :echo, mix: 0.2 do
+    sample :drum_cowbell, amp:
+      [1,0,0,1, 0,0,1,0, 0,0,1,0, 0,1,0,0].look * 0.5
+  end
+  
+  # Toms
+  
+  sample :drum_tom_lo_hard, pan: -0.5, amp: 0.5 if one_in(12)
+  sample :drum_tom_hi_hard, pan: -0.5, amp: 0.5 if one_in(10)
+  sample :drum_tom_mid_soft, pan: 0.5, amp: 0.5 if one_in(5)
+  
+  
+  sleep 1.0/4
+end
+```
