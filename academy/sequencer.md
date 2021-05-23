@@ -239,3 +239,42 @@ live_loop :sequencer do
 end
 ```
 
+
+## 7. Methods
+
+'Methods' allow you to change those lists of values.
+
+We have already used `.choose`. Here are some other uses:
+
+* `.tick` will tick through each value
+* `.look` will read the value at the current `.tick` position
+* `.choose` will choose a random value
+* `.reverse` will reverse the list
+* => `.reverse.tick` and `.reverse.look` will tick/look through the reversed list
+* `.take(x)` will take the first x values from the list
+* => `.take(x).tick` will tick through the first x values
+* => `.reverse.take(x).tick` will tick through the first x values in the reversed list
+
+```ruby
+live_loop :sequencer do
+  use_bpm 120
+  
+  seq = [1,0,1,1, 0,1,0,0, 1,0,0,0, 1,1,0,0]
+  
+  
+  # Drums
+  
+  sample :drum_cymbal_closed, amp: seq.tick
+  
+  sample :bd_fat, amp: seq.reverse.look
+  
+  sample :elec_filt_snare, amp: seq.take(5).look * 0.5,
+    finish: 0.25, release: 0.5
+  
+  sample :elec_triangle, amp: seq.reverse.take(9).look * 0.5,
+    finish: 0.25, release: 0.5
+  
+  sleep 1.0/4
+  
+end
+```
