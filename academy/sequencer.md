@@ -1,3 +1,8 @@
+---
+title: Sequencer
+layout: wide
+---
+
 # Sequencer
 
 ## 1. Generating rhythm
