@@ -2,7 +2,7 @@
 
 ## 1: 4h33
 
-```
+```ruby
 # John Cage composed 4'33" in 1952
 
 # This piece is 4h33: an order of magnitude better.
@@ -56,7 +56,7 @@ end
 
 # 2: Probabalistic Drums
 
-```
+```ruby
 live_loop :drums do
   use_bpm 60
   with_fx :reverb, mix: 0.4 do
@@ -91,7 +91,7 @@ end
 
 ### 3. Onset Remix
 
-```
+```ruby
 live_loop :sample do
   use_random_seed 100
   
