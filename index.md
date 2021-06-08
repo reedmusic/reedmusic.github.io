@@ -42,6 +42,7 @@
 	* [Random order](macros\shuffle_slides.txt)
 * [Portal](https://portal.office.com)
   * [Sharepoint root](https://swchs365.sharepoint.com/sites/MusicDepartment/Shared%20Documents/Forms/AllItems.aspx)
+  * [Cover work](https://swchs365.sharepoint.com/sites/SettingCoverforAbsence)
 * [Manuscript](https://www.dolmetsch.com/manuscriptpaper.htm)
 	* [Blank](https://www.dolmetsch.com/blankmanuscript6portwiderule.pdf)
 	* [Grand staff](https://www.dolmetsch.com/blankmanuscriptpiano4large.pdf)
