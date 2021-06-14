@@ -10,6 +10,8 @@
 
 # [Music Tech Induction 2021](induction2021/index.html)
 
+* Click here to access the files for [Music Technology induction 2021](induction2021/index.html).
+
 
 # For students
 
