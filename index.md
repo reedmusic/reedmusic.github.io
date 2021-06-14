@@ -8,13 +8,15 @@
 
 -->
 
+# [Music Tech Induction 2021](induction2021/index.html)
+
 
 # For students
 
 * [Sonic Pi lessons](https://ereed.gitbook.io/learn-sonic-pi/faq)
 	* [Lots more ideas](https://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html)
 * [Year 8 September lessons](https://swchsmusic.gitbook.io/y8-music/)
-* [Music Tech Induction 2020](induction2020/index.html)
+
 
 
 
