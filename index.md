@@ -8,9 +8,10 @@
 
 -->
 
-# [Music Tech Induction 2021](induction2021/index.html)
+# Year 12 Induction pages
 
-* Click here to access the files for [Music Technology induction 2021](induction2021/index.html).
+* [Music Induction](mu-induction2021/index.html)
+* [Music Technology Induction](mt-induction2021/index.html).
 
 
 # For students
