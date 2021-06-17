@@ -14,6 +14,9 @@
 * [Music Technology Induction](mt-induction2021/index.html).
 
 
+<hr>
+
+
 # For students
 
 * [Sonic Pi lessons](https://ereed.gitbook.io/learn-sonic-pi/faq)
