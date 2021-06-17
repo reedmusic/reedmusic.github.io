@@ -10,7 +10,7 @@
 
 # Year 12 Induction pages
 
-* &#9834; [A Level Music](mu-induction2021/index.html)
+* &#9835; [A Level Music](mu-induction2021/index.html)
 * &#x1F3A4; [A Level Music Technology](mt-induction2021/index.html)
 
 
