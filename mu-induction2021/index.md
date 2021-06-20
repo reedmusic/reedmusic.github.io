@@ -29,7 +29,7 @@ As explained in the first induction lesson, please bring this preparatory work t
 
 Print this PDF or complete on manuscript paper.
 
-[Sept Preparation.pdf]()
+[Sept Preparation.pdf](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/mu-induction2021/Sept%20Preparation.pdf)
 
 
 ## Wider reading
