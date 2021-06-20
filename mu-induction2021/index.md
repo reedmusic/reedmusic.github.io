@@ -6,7 +6,7 @@ title: Music Induction 2021
 # Music Induction 2021
 {: .no_toc}
 
-
+<img src=logo.jpg size=250px>
 
 
 
