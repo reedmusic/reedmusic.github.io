@@ -21,6 +21,7 @@ title: Music Induction 2021
 ## Induction resources
 
 * [Minuet.pdf](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/mu-induction2021/Minuet.pdf)
+	* [Link to full score on IMSLP.org](https://imslp.org/wiki/Special:ImagefromIndex/64131/torat)
 
 ## Preparatory work for September
 
