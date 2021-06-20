@@ -25,7 +25,11 @@ title: Music Induction 2021
 
 ## Preparatory work for September
 
-Please complete this work, printed or set out on manuscript paper, and bring it to your first lesson in September.
+As explained in the first induction lesson, please bring this preparatory work to your first Music lesson in September.
+
+Print this PDF or complete on manuscript paper.
+
+[Sept Preparation.pdf]()
 
 
 ## Wider reading
