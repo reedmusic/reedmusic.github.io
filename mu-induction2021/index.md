@@ -6,7 +6,7 @@ title: Music Induction 2021
 <!-- ![Logo](logo.jpg) -->
 
 
-<img src="logo.jpg" size="50px">
+<img src="logo.jpg" size="20px">
 
 
 
