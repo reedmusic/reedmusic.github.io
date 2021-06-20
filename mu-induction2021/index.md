@@ -20,7 +20,7 @@ title: Music Induction 2021
 
 ## Induction resources
 
-* [Minuet.pdf]()
+* [Minuet.pdf](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/mu-induction2021/Minuet.pdf)
 
 ## Preparatory work for September
 
