@@ -18,7 +18,9 @@ title: Music Induction 2021
 
  -->
 
+## Induction resources
 
+* [Minuet.pdf]()
 
 ## Preparatory work for September
 
