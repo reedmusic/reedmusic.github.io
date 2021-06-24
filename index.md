@@ -19,12 +19,10 @@
 
 # For students
 
+* [VIP Studio Sessions](https://swchsmusic.gitbook.io/y8-music/vip-studio-sessions/logging-in)
 * [Sonic Pi lessons](https://ereed.gitbook.io/learn-sonic-pi/faq)
 	* [Lots more ideas](https://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html)
 * [Year 8 September lessons](https://swchsmusic.gitbook.io/y8-music/)
-
-
-
 
 <hr>
 
