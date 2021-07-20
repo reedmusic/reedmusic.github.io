@@ -55,6 +55,7 @@
 	* [Piano + soloist](http://www.musicsheaf.com/cgi-bin/mspaper?name=blank3x4&type=pdf)
 	* [Note-taking L](http://www.musicsheaf.com/cgi-bin/mspaper?name=theoryr12&type=pdf)
 	* [Note-taking R](http://www.musicsheaf.com/cgi-bin/mspaper?name=theoryl12&type=pdf)
+	* [Chordpic](https://chordpic.com/)
 
 * Textbooks
 	* [Dolmetsch Textbook](https://www.dolmetsch.com/theoryintro.htm)
