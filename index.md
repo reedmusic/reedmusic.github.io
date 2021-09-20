@@ -44,6 +44,9 @@
 
 # For me
 
+* ClassTools
+	* [Timer](https://www.classtools.net/timer/)
+	* [Cloze](https://www.classtools.net/cloze/index.php)
 * Macros
 	* [Delete notes](macros\del_notes.txt)
 	* [Random order](macros\shuffle_slides.txt)
