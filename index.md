@@ -19,11 +19,16 @@
 
 # For students
 
+* Year 8
+	* [https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/y8/BattleOfBritain%20Compressed.zip](Battle of Britain Cubase)
+
+<!--
 * [VIP Studio Sessions](https://swchsmusic.gitbook.io/y8-music/vip-studio-sessions/logging-in)
 * [Sonic Pi lessons](https://ereed.gitbook.io/learn-sonic-pi/faq)
 	* [Lots more ideas](https://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html)
-* [Year 8 September lessons](https://swchsmusic.gitbook.io/y8-music/)
+
 * [Professional links](links.html)
+-->
 
 <hr>
 
