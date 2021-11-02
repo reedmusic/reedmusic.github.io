@@ -20,7 +20,7 @@
 # For students
 
 * Year 8
-	* [Battle of Britain Cubase file compressed](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/y8/BattleOfBritain%20Compressed.zip)
+	* [Battle of Britain Cubase](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/y8/BattleOfBritain%20Compressed.zip)
 
 <!--
 * [VIP Studio Sessions](https://swchsmusic.gitbook.io/y8-music/vip-studio-sessions/logging-in)
