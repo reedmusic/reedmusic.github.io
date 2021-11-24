@@ -1,5 +1,5 @@
 # Loop?
-```
+```ruby
 loop do
 
 play 70
