@@ -48,7 +48,7 @@
 <hr>
 
 # For me
-
+* [Cover lessons](https://swchs365.sharepoint.com/sites/SettingCoverforAbsence)
 * ClassTools
 	* [Timer](https://www.classtools.net/timer/)
 	* [Cloze](https://www.classtools.net/cloze/index.php)
