@@ -1,5 +1,6 @@
 
 use_bpm 200
+use_synth :beep
 
 # --- 1st bar ---
 
