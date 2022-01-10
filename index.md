@@ -19,8 +19,9 @@
 
 # For students
 
-* Year 8
-	* [Battle of Britain Cubase](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/y8/BattleOfBritain.zip)
+* Year 8: Music and War
+	* First project: [Battle of Britain](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/y8/BattleOfBritain.zip)
+	* Second project: [Dogfight](https://github.com/reedmusic/reedmusic.github.io/raw/master/y8/Dogfight.zip)
 
 <!--
 * [VIP Studio Sessions](https://swchsmusic.gitbook.io/y8-music/vip-studio-sessions/logging-in)
