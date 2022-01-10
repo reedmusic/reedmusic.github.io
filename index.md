@@ -20,7 +20,7 @@
 # For students
 
 * Year 8: Music and War
-	* First project: [Battle of Britain](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/y8/BattleOfBritain.zip)
+	* First project: [Battle of Britain](https://github.com/reedmusic/reedmusic.github.io/raw/master/y8/BattleOfBritain.zip)
 	* Second project: [Dogfight](https://github.com/reedmusic/reedmusic.github.io/raw/master/y8/Dogfight.zip)
 
 <!--
