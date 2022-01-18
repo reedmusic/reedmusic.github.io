@@ -19,3 +19,7 @@ The rest of the paragraph
 <audio controls><source src="Sweet.mp3" type="audio/mpeg"></audio>
 
 The rest of the paragraph
+
+# 4 Without type
+
+<audio controls><source src="Sweet.mp3"></audio>
