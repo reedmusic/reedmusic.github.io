@@ -8,20 +8,22 @@
 
 -->
 
-# Year 12 Induction pages
+
+
+<!--
+ # Year 12 Induction pages
 
 * &#9835; [A Level Music](mu-induction2021/index.html)
 * &#x1F3A4; [A Level Music Technology](mt-induction2021/index.html)
 
-
 <hr>
+-->
 
 
 # For students
 
-* Year 8: Music and War
-	* First project: [Battle of Britain](https://github.com/reedmusic/reedmusic.github.io/raw/master/y8/BattleOfBritain.zip)
-	* Second project: [Dogfight](https://github.com/reedmusic/reedmusic.github.io/raw/master/y8/Dogfight.zip)
+* Year 8
+	* [Battle of Britain Cubase](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/y8/BattleOfBritain.zip)
 
 <!--
 * [VIP Studio Sessions](https://swchsmusic.gitbook.io/y8-music/vip-studio-sessions/logging-in)
