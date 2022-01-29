@@ -30,6 +30,9 @@
 * [Professional links](links.html)
 -->
 
+* AL Music
+	* [Exercises](/exercises)
+
 <hr>
 
 # For teachers
@@ -70,7 +73,7 @@
 	* [Dolmetsch Textbook](https://www.dolmetsch.com/theoryintro.htm)
 	* <http://learnmusictheory.net/>
 	* <https://www.musictheory.net/>
-	* [Music T for 21C classroom](https://musictheory.pugetsound.edu/mt21c/ExamplesWithAugmentedSixthChords.html)
+	* [Music T for 21C classroom](https://musictheory.pugetsound.edu/mt21c/)
 	* [OMT](http://openmusictheory.com/contents.html)
 	
 * [Dolmetsch Dictionary](https://www.dolmetsch.com/theoryindex.htm)
