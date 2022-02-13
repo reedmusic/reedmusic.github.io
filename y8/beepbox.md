@@ -3,7 +3,7 @@ title: BeepBox examples
 layout: wide
 ---
 
-# Chiptune examples
+# BeepBox examples
 {: .no_toc}
 
 ## Contents
@@ -35,7 +35,7 @@ This is the theme from the first level of the game.
 </p>
 
 
-## Zelda
+## The Legend of Zelda
 
 ### Overworld Theme
 
