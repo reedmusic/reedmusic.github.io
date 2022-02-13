@@ -3,6 +3,12 @@ title: BeepBox examples
 layout: wide
 ---
 
+# Contents
+{: .no_toc}
+
+- TOC
+{:toc}
+
 # Shovel Knight, 2014
 
 This is the theme from the first level of the game.
