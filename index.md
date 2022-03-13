@@ -82,6 +82,8 @@
 	
 * [Dolmetsch Dictionary](https://www.dolmetsch.com/theoryindex.htm)
 
+* Jazz
+	* [Transcriptions](http://scooby-sax.com/Transcriptions.html)
 
 * Form
 	* [Newsround](https://www.bbc.co.uk/newsround/43245617)
