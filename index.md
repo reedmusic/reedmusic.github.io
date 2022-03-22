@@ -23,7 +23,7 @@
 # For students
 
 * Year 8
-	* [Gaming and Music](https://swchsmusic.gitbook.io/y8-music/commercial-music/beepbox)
+	* [Gaming and Music](https://swchsmusic.gitbook.io/y8-music/gaming-and-music/chiptune)
 	* [Battle of Britain Cubase](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/y8/BattleOfBritain.zip)
 
 <!--
