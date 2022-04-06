@@ -23,7 +23,7 @@
 # For students
 
 * Year 8
-	* [Gaming and Music](https://swchsmusic.gitbook.io/y8-music/commercial-music/beepbox)
+	* [Gaming and Music](https://swchsmusic.gitbook.io/y8-music/gaming-and-music/chiptune)
 	* [Battle of Britain Cubase](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/y8/BattleOfBritain.zip)
 
 <!--
@@ -48,7 +48,8 @@
 	* [Handout](handout.html)
 
 * Symbolic notation grids
-	* 4/4: [1 row](symbolic/symbolic8s.htm); [2 rows](symbolic/symbolic8s_2.htm); [4 rows](symbolic/symbolic8s_4.htm)
+	* [New design](symbolic/symbolicchoices.htm)
+	* Old designs. 4/4: [1 row](symbolic/symbolic8s.htm); [2 rows](symbolic/symbolic8s_2.htm); [4 rows](symbolic/symbolic8s_4.htm)
 	* [5/4](symbolic/symbolic54.htm)
 
 
