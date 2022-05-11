@@ -56,6 +56,8 @@
 <hr>
 
 # For me
+
+* [Carousel](https://www.carousel-learning.com/)
 * [Cover lessons](https://swchs365.sharepoint.com/sites/SettingCoverforAbsence)
 * ClassTools
 	* [Timer](https://www.classtools.net/timer/)
