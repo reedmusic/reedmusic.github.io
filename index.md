@@ -23,8 +23,8 @@
 # For students
 
 * Year 8
-	* [Gaming and Music](https://swchsmusic.gitbook.io/y8-music/gaming-and-music/chiptune)
-	* [Battle of Britain Cubase](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/y8/BattleOfBritain.zip)
+	* 	&#127918; [Music and Gaming pages](https://swchsmusic.gitbook.io/y8-music/gaming-and-music/chiptune)
+	<!--* [Battle of Britain Cubase](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/y8/BattleOfBritain.zip)-->
 
 <!--
 * [VIP Studio Sessions](https://swchsmusic.gitbook.io/y8-music/vip-studio-sessions/logging-in)
