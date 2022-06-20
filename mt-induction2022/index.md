@@ -3,29 +3,30 @@ layout:wide
 title: Music Tech Induction 2022
 ---
 
-# Induction 2022
+# Tech Induction 2022
 
 We hope you enjoyed the Induction at SWCHS this year. Here is some extra information for getting started on the Music Technology course.
 
-Please get in touch with me at ereed-at-swchs.net  
+Please get in touch with me at ereed-at-swchs.net if you have any questions.
 
 # Preparing for September
+
 These are the important things to get sorted before September:
 
-* Preparation work
-* Headphones
-* Revision Guide
+1. Preparation work
+1. Headphones
+1. Revision Guide
 
 
-## Preparation Work
+## 1. Preparation Work
 
 [Click here](https://github.com/reedmusic/reedmusic.github.io/raw/master/mt-induction2022/Preparation.docx) to download the Preparation Work (you may need to right-click and Save As). Please bring this in September. Let me know if you have any questions.
 
-## Headphones
+## 2. Headphones
 
 You will need a good-quality pair of headphones. You do not need to spend a lot of money, but the headphones must be designed for studio use.
 
-These should be closed-back, circumaural, wired headphones (not wireless).
+These should be closed-back, circumaural (cover your ears entirely), wired headphones (not wireless, bluetooth,etc.).
 
 Here are some suggestions:
 
@@ -37,7 +38,7 @@ Here are some suggestions:
 * Audio Technica ATH-M50X
 * Beyerdynamic DT770
 
-## Revision Guide
+## 3. Revision Guide
 
 The Revision Guide (RRP £10) is excellent. It is concise and covers most of the course content. Make sure you buy the ‘A Level’ and not ‘AS Level’ version. It is not just for revision: we will be referring to the diagrams and explanations in class.
 
