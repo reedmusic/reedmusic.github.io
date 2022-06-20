@@ -13,26 +13,30 @@ These are the important things to get sorted before September:
 * Revision Guide
 
 
-1. Preparation Work
-[Click here](Preparation.docx) to download the Preparation Work (you may need to right-click and Save As). Please bring this in September. Let me know if you have any questions.
+## Preparation Work
 
-2. Headphones
+[Click here](https://github.com/reedmusic/reedmusic.github.io/raw/master/mt-induction2022/Preparation.docx) to download the Preparation Work (you may need to right-click and Save As). Please bring this in September. Let me know if you have any questions.
+
+## Headphones
+
 You will need a good-quality pair of headphones. You do not need to spend a lot of money, but the headphones must be designed for studio use.
 
-These should be closed-back, circumaural, wired headphones. No Beats, Bose, noise-cancelling, earbuds or wireless: these won’t be suitable.
+These should be closed-back, circumaural, wired headphones (not wireless).
 
-Here are some suggestions.
+Here are some suggestions:
 
-AKG K52
-Sennheiser HD206 (or HD201 which are cheaper and have a long cable for studio tracking)
-AKG K92
-Audio Technia ATH-M40x (I don’t recommend the cheaper M20x/M30x)
-Sony MDR-7506
-Audio Technica ATH-M50X
-Beyerdynamic DT770
-3. Revision Guide
+* AKG K52
+* Sennheiser HD206 (or HD201 which are cheaper and have a long cable for studio tracking)
+* AKG K92
+* Audio Technia ATH-M40x (I don’t recommend the cheaper M20x/M30x)
+* Sony MDR-7506
+* Audio Technica ATH-M50X
+* Beyerdynamic DT770
+
+## Revision Guide
+
 The Revision Guide (RRP £10) is excellent. It is concise and covers most of the course content. Make sure you buy the ‘A Level’ and not ‘AS Level’ version. It is not just for revision: we will be referring to the diagrams and explanations in class.
 
-Here is the Amazon link
+[Here is the Amazon link](https://www.amazon.co.uk/Edexcel-Level-Music-Technology-Revision/dp/1785586343)
 
-Shops are usually out of stock in September, so I strongly suggest buying this in advance.
+Shops are often out of stock when everyone starts courses in September, so buying this in advance is a good idea.
