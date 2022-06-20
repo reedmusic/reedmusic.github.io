@@ -3,9 +3,13 @@ layout:wide
 title: Music Tech Induction 2022
 ---
 
+# Induction 2022
 
+We hope you enjoyed the Induction at SWCHS this year. Here is some extra information for getting started on the Music Technology course.
 
-# Jobs for September
+Please get in touch with me at ereed-at-swchs.net  
+
+# Preparing for September
 These are the important things to get sorted before September:
 
 * Preparation work
