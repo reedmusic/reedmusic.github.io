@@ -21,6 +21,7 @@
 
 # Induction
 
+* [Music](/mu-induction2022)
 * [Music Technology](/mt-induction2022)
 
 
