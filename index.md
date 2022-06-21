@@ -10,14 +10,6 @@
 
 
 
-<!--
- # Year 12 Induction pages
-
-* &#9835; [A Level Music](mu-induction2021/index.html)
-* &#x1F3A4; [A Level Music Technology](mt-induction2021/index.html)
-
-<hr>
--->
 
 # Induction
 
@@ -26,7 +18,7 @@ Prospective Year 12 students please find Summer preparatory work here:
 * [Music](https://github.com/reedmusic/reedmusic.github.io/raw/master/mu-induction2022/Music%20Preparation.docx) &#9835;
 * [Music Technology](/mt-induction2022) &#127908;
 
-
+<hr>
 
 # For students
 
