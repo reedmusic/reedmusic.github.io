@@ -21,8 +21,11 @@
 
 # Induction
 
-* [Music](/mu-induction2022)
-* [Music Technology](/mt-induction2022)
+Prospective Year 12 students please find Summer preparatory work here:
+
+* [Music](/mu-induction2022) &#9835;
+* [Music Technology](/mt-induction2022) &#127908;
+
 
 
 # For students
