@@ -20,7 +20,7 @@ These are the important things to get sorted before September:
 
 ## 1. Preparation Work
 
-[Click here](https://github.com/reedmusic/reedmusic.github.io/raw/master/mt-induction2022/Preparation.docx) to download the Preparation Work (you may need to right-click and Save As). Please bring this in September. Let me know if you have any questions.
+[Click here](https://github.com/reedmusic/reedmusic.github.io/raw/master/mt-induction2022/Tech Preparation.docx) to download the Preparation Work (you may need to right-click and Save As). Please bring this in September. Let me know if you have any questions.
 
 ## 2. Headphones
 
