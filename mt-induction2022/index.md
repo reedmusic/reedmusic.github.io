@@ -22,6 +22,10 @@ These are the important things to get sorted before September:
 
 [Click here](https://github.com/reedmusic/reedmusic.github.io/raw/master/mt-induction2022/Tech Preparation.docx) to download the Preparation Work (you may need to right-click and Save As). Please bring this to **your first lesson in September**. Let me know if you have any questions; address above.
 
+### Getting ready guide
+
+To help students get ahead for their new course, the school has published a series of optional activities to bridge hte gap between Y11 and Y12. [Click here]( to download the Getting Ready for A Level Music Technology guide.
+
 ## 2. Headphones
 
 You will need a good-quality pair of headphones. You do not need to spend a lot of money, but the headphones must be designed for studio use.
