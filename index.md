@@ -47,10 +47,11 @@ Prospective Year 12 students please find Summer preparatory work here:
 	* Please [contact me](mailto:ereed@swchs.net) for the workshop videos
 	* [Handout](handout.html)
 
-* Symbolic notation grids
-	* [New design](symbolic/symbolicchoices.htm)
-	* Old designs. 4/4: [1 row](symbolic/symbolic8s.htm); [2 rows](symbolic/symbolic8s_2.htm); [4 rows](symbolic/symbolic8s_4.htm)
-	* [5/4](symbolic/symbolic54.htm)
+* Rhythm grids + iconic notation
+	* [New design](iconic/iconicchoices.htm)
+	* Old designs. 4/4: [1 row](iconic/iconic8s.htm); [2 rows](iconic/iconic8s_2.htm); [4 rows](iconic/iconic8s_4.htm)
+	* [5/4](iconic/iconic54.htm)
+	* [SongMaker template](https://musiclab.chromeexperiments.com/Song-Maker/song/4938643022282752)
 
 
 <hr>
