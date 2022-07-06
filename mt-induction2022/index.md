@@ -24,7 +24,7 @@ These are the important things to get sorted before September:
 
 ### Getting ready guide
 
-To help students get ahead for their new course, the school has published a series of optional activities to bridge hte gap between Y11 and Y12. [Click here]( to download the Getting Ready for A Level Music Technology guide.
+To help students get ahead for their new course, the school has published a series of (optional) activities to bridge the gap between Y11 and Y12. [Click here](https://github.com/reedmusic/reedmusic.github.io/raw/master/mt-induction2022/Getting%20ready%20Mt%202022.docx) to download the Getting Ready for A Level Music Technology guide.
 
 ## 2. Headphones
 
