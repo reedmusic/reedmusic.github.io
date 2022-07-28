@@ -1,5 +1,5 @@
 ---
-layout:wide
+layout: wide
 title: Music Tech Induction 2022
 ---
 
