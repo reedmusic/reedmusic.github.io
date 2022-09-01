@@ -64,22 +64,27 @@ Prospective Year 12 students please find Summer preparatory work here:
 
 * [Carousel](https://www.carousel-learning.com/)
 * [Cover lessons](https://swchs365.sharepoint.com/sites/SettingCoverforAbsence)
+
 * ClassTools
 	* [Timer](https://www.classtools.net/timer/)
 	* [Cloze](https://www.classtools.net/cloze/index.php)
+
 * Macros
 	* [Delete notes](macros\del_notes.txt)
 	* [Random order](macros\shuffle_slides.txt)
+
 * [Portal](https://portal.office.com)
   * [Sharepoint root](https://swchs365.sharepoint.com/sites/MusicDepartment/Shared%20Documents/Forms/AllItems.aspx)
   * [Cover work](https://swchs365.sharepoint.com/sites/SettingCoverforAbsence)
-* [Manuscript](https://www.dolmetsch.com/manuscriptpaper.htm)
+
+* [Manuscript](https://www.dolmetsch.com/manuscriptpaper.htm) & Notation
 	* [Blank](https://www.dolmetsch.com/blankmanuscript6portwiderule.pdf)
 	* [Grand staff](https://www.dolmetsch.com/blankmanuscriptpiano4large.pdf)
 	* [Piano + soloist](http://www.musicsheaf.com/cgi-bin/mspaper?name=blank3x4&type=pdf)
 	* [Note-taking L](http://www.musicsheaf.com/cgi-bin/mspaper?name=theoryr12&type=pdf)
 	* [Note-taking R](http://www.musicsheaf.com/cgi-bin/mspaper?name=theoryl12&type=pdf)
 	* [Chordpic](https://chordpic.com/)
+	* [Piano keyboard font](https://www.fontspace.com/keyboard-chord-diagram-font-f25876?fbclid=IwAR0MH6in6vuvY6z4yceatoT6opa_z8yYcARfU7c56zbd8njb43uu3LW6OxY)
 
 * Textbooks
 	* [Dolmetsch Textbook](https://www.dolmetsch.com/theoryintro.htm)
