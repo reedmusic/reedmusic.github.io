@@ -42,7 +42,7 @@ Here are some suggestions:
 * Audio Technica ATH-M50X
 * Beyerdynamic DT770
 
-**You will need a suitable set by the third week of September 19th at the latest.**
+**You will need a suitable set by the third week of September 23rd at the latest.**
 
 ## 3. Revision Guide
 
@@ -52,4 +52,4 @@ The Revision Guide (RRP £10) is excellent. It is concise and covers most of the
 
 Shops are often out of stock when everyone starts courses in September, so buying this in advance is a good idea.
 
-**You will need a copy by September 19th at the latest.**
+**You will need a copy by September 23rd at the latest.**
