@@ -63,7 +63,7 @@ Prospective Year 12 students please find Summer preparatory work here:
 # For me
 
 * [Carousel](https://www.carousel-learning.com/)
-* [Cover lessons](https://swchs365.sharepoint.com/sites/SettingCoverforAbsence)
+* [Cover lessons]([https://swchs365.sharepoint.com/sites/SettingCoverforAbsence](https://swchs365.sharepoint.com/sites/SettingCoverforAbsence/Shared%20Documents/Forms/AllItems.aspx))
 
 * ClassTools
 	* [Timer](https://www.classtools.net/timer/)
