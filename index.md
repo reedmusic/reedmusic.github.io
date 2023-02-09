@@ -34,10 +34,10 @@ Prospective Year 12 students please find Summer preparatory work here:
 * [Professional links](links.html)
 -->
 
-<!--
+
 * AL Music
 	* [Exercises](/exercises)
--->
+
 
 
 
