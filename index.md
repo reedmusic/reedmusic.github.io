@@ -9,19 +9,17 @@
 
 -->
 
-
-<!---
-# Induction
+# Induction 2023
 
 Prospective Year 12 students please find Summer preparatory work here:
 
-* [Music](https://github.com/reedmusic/reedmusic.github.io/raw/master/mu-induction2022/Music%20Preparation.docx) &#9835;
-* [Music Technology](/mt-induction2022) &#127908;
--->
+* [Music](https://github.com/reedmusic/reedmusic.github.io/raw/master/mu-induction2023/Music%20Preparation.docx) &#9835;
+* [Music Technology](/mt-induction2023) &#127908;
+
 
 <hr>
 
-# For students
+# For current students
 
 * Year 8
 	* &#127918; [Music and Gaming pages](https://swchsmusic.gitbook.io/y8-music/gaming-and-music/chiptune)
