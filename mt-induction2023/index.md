@@ -37,9 +37,9 @@ These should be closed-back, circumaural (cover your ears entirely), wired headp
 Here are some suggestions:
 
 * AKG K52
-* Sennheiser HD206 (or HD201 which are cheaper and have a long cable for studio tracking)
+* Sennheiser HD201 or HD206
 * AKG K92
-* Audio Technia ATH-M40x (I don’t recommend the cheaper M20x/M30x)
+* Audio Technia ATH-M40x
 * Sony MDR-7506
 * Audio Technica ATH-M50X
 * Beyerdynamic DT770
