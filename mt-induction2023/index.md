@@ -64,8 +64,8 @@ Shops are often out of stock when everyone starts courses in September, so buyin
 
 Our highest-achieving students are avid listeners, readers and engineers. Here are three more books that they find useful.
 
-* [https://www.amazon.co.uk/Level-Music-Technology-Guide-Specification/dp/1979270546/](Daniel Plewinski: Music Technology Guide)
-* [https://www.amazon.co.uk/Music-Technology-Scratch-Mortimer-Rhind-Tutt/dp/1906178860/](Mortimer Rhind-tutt: Music Technology from scratch)
-* [https://www.amazon.co.uk/Recording-Techniques-Engineering-Society-Presents/dp/1138954373/](David Miles Huber: Modern Recording Techniques)
+* [Daniel Plewinski: Music Technology Guide](https://www.amazon.co.uk/Level-Music-Technology-Guide-Specification/dp/1979270546/)
+* [Mortimer Rhind-tutt: Music Technology from scratch](https://www.amazon.co.uk/Music-Technology-Scratch-Mortimer-Rhind-Tutt/dp/1906178860/)
+* [David Miles Huber: Modern Recording Techniques](https://www.amazon.co.uk/Recording-Techniques-Engineering-Society-Presents/dp/1138954373/)
 
 
