@@ -1,9 +1,9 @@
 ---
 layout: wide
-title: Music Tech Induction 2022
+title: Music Tech Induction 2023
 ---
 
-# Tech Induction 2022
+# Tech Induction 2023
 
 We hope you enjoyed the Induction at SWCHS this year. Here is some extra information for getting started on the Music Technology course.
 
@@ -16,8 +16,8 @@ Do get in touch with me at ereed-at-swchs.net if you have any questions.
 These are the three important things to sort out before September:
 
 1. Preparation work: deadline will be our first lesson so that we can discuss in class.
-1. Headphones: deadline 19th September at the latest.
-1. Revision Guide: deadline 19th September at the latest.
+1. Headphones: deadline 25th September at the latest.
+1. Revision Guide: deadline 25th September at the latest.
 
 
 ## 1. Preparation Work
@@ -44,7 +44,7 @@ Here are some suggestions:
 * Audio Technica ATH-M50X
 * Beyerdynamic DT770
 
-**You will need a suitable set by the third week of September 23rd at the latest.**
+**You will need a suitable set by the third week of September 25th at the latest.**
 
 Again, please email if you have any questions.
 
@@ -58,7 +58,7 @@ The Revision Guide (RRP £13.99) is excellent. It is concise and covers most of 
 
 Shops are often out of stock when everyone starts courses in September, so buying this in advance is a good idea.
 
-**You will need a copy by September 23rd at the latest.**
+**You will need a copy by September 25th at the latest.**
 
 ### Additional reading
 
