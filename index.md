@@ -6,21 +6,20 @@
 * [Sonic Pi resources](http://ereed.gitbook.io)
 * [View repo](https://github.com/MrReedSWCHS/mrreedswchs.github.io)
 
+
 -->
 
-
-
-
-# Induction
+# Induction 2023
 
 Prospective Year 12 students please find Summer preparatory work here:
 
-* [Music](https://github.com/reedmusic/reedmusic.github.io/raw/master/mu-induction2022/Music%20Preparation.docx) &#9835;
-* [Music Technology](/mt-induction2022) &#127908;
+* [Music](https://github.com/reedmusic/reedmusic.github.io/raw/master/mu-induction2023/Music%20Preparation.docx) &#9835;
+* [Music Technology](/mt-induction2023) &#127908;
+
 
 <hr>
 
-# For students
+# For current students
 
 * Year 8
 	
@@ -36,10 +35,10 @@ Prospective Year 12 students please find Summer preparatory work here:
 * [Professional links](links.html)
 -->
 
-<!--
+
 * AL Music
 	* [Exercises](/exercises)
--->
+
 
 
 
@@ -65,7 +64,7 @@ Prospective Year 12 students please find Summer preparatory work here:
 # For me
 
 * [Carousel](https://www.carousel-learning.com/)
-* [Cover lessons]([https://swchs365.sharepoint.com/sites/SettingCoverforAbsence](https://swchs365.sharepoint.com/sites/SettingCoverforAbsence/Shared%20Documents/Forms/AllItems.aspx))
+* [Cover lessons](https://swchs365.sharepoint.com/sites/SettingCoverforAbsence/Shared%20Documents/Forms/AllItems.aspx)
 
 * ClassTools
 	* [Timer](https://www.classtools.net/timer/)
@@ -77,7 +76,7 @@ Prospective Year 12 students please find Summer preparatory work here:
 
 * [Portal](https://portal.office.com)
   * [Sharepoint root](https://swchs365.sharepoint.com/sites/MusicDepartment/Shared%20Documents/Forms/AllItems.aspx)
-  * [Cover work]([https://swchs365.sharepoint.com/sites/SettingCoverforAbsence](https://swchs365.sharepoint.com/sites/SettingCoverforAbsence/Shared%20Documents/Forms/AllItems.aspx)
+  * [Cover work](https://swchs365.sharepoint.com/sites/SettingCoverforAbsence/Shared%20Documents/Forms/AllItems.aspx)
 
 * [Manuscript](https://www.dolmetsch.com/manuscriptpaper.htm) & Notation
 	* [Blank](https://www.dolmetsch.com/blankmanuscript6portwiderule.pdf)
