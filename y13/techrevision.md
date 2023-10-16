@@ -3,10 +3,6 @@ layout: wide
 title: Music Induction 2021
 ---
 
-![Logo](logo.jpg)
-
-
-
 # Mt Revision Home
 {: .no_toc}
 
