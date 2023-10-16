@@ -1,4 +1,24 @@
+---
+layout: wide
+title: Music Induction 2021
+---
+
+![Logo](logo.jpg)
+
+
+
 # Mt Revision Home
+{: .no_toc}
+
+
+## Contents
+{: .no_toc}
+
+- TOC
+{:toc}
+
+
+
 
 Revision resources and links to locations.
 
