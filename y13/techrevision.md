@@ -1,6 +1,6 @@
 ---
 layout: wide
-title: Music Induction 2021
+title: Mt Revision Home
 ---
 
 # Mt Revision Home
@@ -13,8 +13,6 @@ title: Music Induction 2021
 - TOC
 {:toc}
 
-
-Revision resources and links to locations.
 
 ## Past papers
 
