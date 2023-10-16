@@ -14,8 +14,6 @@ title: Music Induction 2021
 {:toc}
 
 
-
-
 Revision resources and links to locations.
 
 ## Past papers
