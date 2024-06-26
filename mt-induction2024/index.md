@@ -1,9 +1,9 @@
 ---
 layout: wide
-title: Music Tech Induction 2023
+title: Music Tech Induction 2024
 ---
 
-# Tech Induction 2023
+# Tech Induction 2024
 
 We hope you enjoyed the Induction at SWCHS this year. Here is some extra information for getting started on the Music Technology course.
 
@@ -16,18 +16,18 @@ Do get in touch with me at ereed-at-swchs.net if you have any questions.
 
 These are the three important things to sort out before September:
 
-1. Preparation work: deadline will be our first lesson so that we can discuss in class.
-1. Headphones: deadline 23rd September at the latest.
-1. Revision Guide: deadline 23rd September at the latest.
+1. **Preparation work**: deadline will be our first lesson so that we can discuss in class.
+1. **Headphones**: deadline 23rd September at the latest.
+1. **Revision Guide**: deadline 23rd September at the latest.
 
 
 ## 1. Preparation Work
 
 This was provided on paper during Induction. Alternatively, [click here](https://github.com/reedmusic/reedmusic.github.io/raw/master/mt-induction2022/Tech Preparation.docx) to download the preparation work (you may need to right-click and Save As). Please bring this to **your first lesson in September**. Let me know if you have any questions; address above.
 
-### Getting ready guide
+### Getting ready guide (optional enrichment)
 
-To help students get ahead for their new course, the school has published a series of (optional) activities to bridge the gap between Y11 and Y12. [Click here](https://github.com/reedmusic/reedmusic.github.io/raw/master/mt-induction2022/Getting%20ready%20Mt%202022.docx) to download the Getting Ready for A Level Music Technology guide.
+To help students get ahead for their new course, the school has published a series of optional activities to bridge the gap between Y11 and Y12. Visit the [school website](https://www.swchs.net/page/?title=A%2DLEVEL+Music+Technology&pid=324) to download this 'Getting Ready' document.
 
 ## 2. Headphones
 
@@ -63,10 +63,9 @@ Shops are often out of stock when everyone starts courses in September, so buyin
 
 ### Additional reading
 
-Our highest-achieving students are avid listeners, readers and engineers. Here are three more books that they find useful.
+Our highest-achieving students are avid listeners, readers and engineers. Here are more books they find useful.
 
 * [Daniel Plewinski: Music Technology Guide](https://www.amazon.co.uk/Level-Music-Technology-Guide-Specification/dp/1979270546/)
-* [Mortimer Rhind-tutt: Music Technology from scratch](https://www.amazon.co.uk/Music-Technology-Scratch-Mortimer-Rhind-Tutt/dp/1906178860/)
 * [David Miles Huber: Modern Recording Techniques](https://www.amazon.co.uk/Recording-Techniques-Engineering-Society-Presents/dp/1138954373/)
 
 
