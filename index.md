@@ -13,8 +13,8 @@
 
 Prospective Year 12 students please find Summer preparatory work here:
 
-* [Music](https://github.com/reedmusic/reedmusic.github.io/raw/master/mu-induction2023/Music%20Preparation.docx) &#9835;
-* [Music Technology](/mt-induction2023) &#127908;
+*  &#9835; [Music](https://github.com/reedmusic/reedmusic.github.io/raw/master/mu-induction2024/Music%20Preparation.docx)
+* &#127908; [Music Technology](/mt-induction2024) 
 
 
 <hr>
