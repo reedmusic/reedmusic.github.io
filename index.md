@@ -11,8 +11,6 @@
 
 # Induction 2024
 
-*  &#9835; [Induction L1 Projects](https://github.com/reedmusic/reedmusic.github.io/raw/master/proj.zip)
-
 Prospective Year 12 students please find Summer preparatory work here:
 
 *  &#9835; [Music](https://github.com/reedmusic/reedmusic.github.io/raw/master/mu-induction2024/Music%20Preparation.docx)
