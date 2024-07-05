@@ -65,16 +65,16 @@ Shops are often out of stock when everyone starts courses in September, so buyin
 
 **You will need a copy by September 23rd at the latest.**
 
-### The world of Music Tech
+## ...The world of Music Tech
 
 Our highest-achieving students are avid listeners, readers and engineers. Here are more things they enjoy:
 
-#### Podcasts / playlists / people
+### Podcasts / playlists / people
 * [Sound on Sound](https://www.soundonsound.com/sos-podcasts)
 * [Dan Worrall](https://www.youtube.com/@DanWorrall)
 * [Edgar Rothermich](https://www.youtube.com/@MusicTechExplained)
 
-#### Books
+### Books
 
 * [Daniel Plewinski: Music Technology Guide](https://www.amazon.co.uk/Level-Music-Technology-Guide-Specification/dp/1979270546/)
 * [David Miles Huber: Modern Recording Techniques](https://www.amazon.co.uk/Recording-Techniques-Engineering-Society-Presents/dp/1138954373/)
