@@ -11,6 +11,10 @@ Please read all of the information on this page carefully.
 
 Do get in touch with me at ereed-at-swchs.net if you have any questions.
 
+# Lesson 2 Powerpoint
+
+[Click here](https://github.com/reedmusic/reedmusic.github.io/raw/master/mt-induction2024/Music%20Technology%20Induction.pptx) to download our Lesson 2 powerpoint, including course content.
+
 
 # Preparing for September
 
