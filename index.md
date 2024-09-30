@@ -63,9 +63,6 @@ Prospective Year 12 students please find Summer preparatory work here:
 
 # For me
 
-* [Debby](jb/debby.pdf)
-* [A5](jb/debbya5.pdf)
-
 * [Carousel](https://www.carousel-learning.com/)
 * [Cover lessons](https://swchs365.sharepoint.com/sites/SettingCoverforAbsence/Shared%20Documents/Forms/AllItems.aspx)
 
