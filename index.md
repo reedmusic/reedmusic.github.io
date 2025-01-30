@@ -9,6 +9,7 @@
 
 -->
 
+<!--
 # Induction 2024
 
 Prospective Year 12 students please find Summer preparatory work here:
@@ -18,9 +19,13 @@ Prospective Year 12 students please find Summer preparatory work here:
 
 
 <hr>
+-->
 
 # For current students
 
+* Year 9
+	* [Ukulele chord sheet](https://www.lunaguitars.com/pdf/Uke-Chord-Chart.pdf)
+  
 * Year 8
 	
 	* [All About You Questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=wkFzQD20TkC8a5Jt2e28sZR0nD1CTQdDg_NfhdTAo2hUMEo5Vk1SOEhJNkZLV04wSjQyOU9LMzFRQy4u)
