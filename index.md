@@ -23,8 +23,7 @@ Prospective Year 12 students please find Summer preparatory work here:
 
 # For current students
 
-* [Assessment Wednesday](assessment25/1.mp3)
-* [Assessment Thursday](assessment25/2.mp3)
+
 
 * Year 9
 	* [Ukulele chord sheet](https://www.lunaguitars.com/pdf/Uke-Chord-Chart.pdf)
@@ -70,6 +69,13 @@ Prospective Year 12 students please find Summer preparatory work here:
 <hr>
 
 # For me
+
+* [alors](samples/alors.mp3)
+* [single](samples/single.mp3)
+
+* Assessments
+	* [Assessment Wednesday](assessment25/1.mp3)
+	* [Assessment Thursday](assessment25/2.mp3)
 
 * [Carousel](https://www.carousel-learning.com/)
 * [Cover lessons](https://swchs365.sharepoint.com/sites/SettingCoverforAbsence/Shared%20Documents/Forms/AllItems.aspx)
