@@ -23,6 +23,9 @@ Prospective Year 12 students please find Summer preparatory work here:
 
 # For current students
 
+* [Assessment Wednesday](assessment25/1.mp3)
+* [Assessment Thursday](assessment25/2.mp3)
+
 * Year 9
 	* [Ukulele chord sheet](https://www.lunaguitars.com/pdf/Uke-Chord-Chart.pdf)
   
