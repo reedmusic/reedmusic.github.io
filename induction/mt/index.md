@@ -11,10 +11,6 @@ Please read all of the information on this page carefully.
 
 Do get in touch with me at ereed-at-swchs.net if you have any questions.
 
-# Induction Powerpoint
-
-[Click here](https://github.com/reedmusic/reedmusic.github.io/raw/master/induction/mt/Music%20Technology%20Induction.pptx) to download the powerpoint used during sessions, including course content.
-
 
 # Preparing for September
 
@@ -80,4 +76,9 @@ Our highest-achieving students are avid listeners, readers and engineers. Here a
 * [David Miles Huber: Modern Recording Techniques](https://www.amazon.co.uk/Recording-Techniques-Engineering-Society-Presents/dp/1138954373/)
 
 
+# Course content for reference
+
+| Course website | <https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/music-technology-2017.html> |
+| Specification | <https://qualifications.pearson.com/content/dam/pdf/A%20Level/Music-Technology/2017/specification-and-sample-assessments/Pearson_Edexcel_Level_3_Advanced_GCE_in_Music_Technology_Specification_issue3.pdf> |
+| Summary of the content | <https://qualifications.pearson.com/content/dam/pdf/A%20Level/Music-Technology/2017/teaching-learning-materials/Alevel-Music-Technology-Quals-Subject-Guide.pdf> |
 
