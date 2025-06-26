@@ -61,7 +61,7 @@ Shops are often out of stock when everyone starts courses in September, so buyin
 
 **You will need a copy by September 29th at the latest.**
 
-## ...The world of Music Tech
+## and finally 4...The world of Music Tech
 
 Our highest-achieving students are avid listeners, readers and engineers. Here are more things they enjoy:
 
