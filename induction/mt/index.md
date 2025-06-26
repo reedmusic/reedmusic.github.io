@@ -1,9 +1,9 @@
 ---
 layout: wide
-title: Music Tech Induction 2024
+title: Music Tech Induction 2025
 ---
 
-# Tech Induction 2024
+# Music Tech Induction 2025
 
 We hope you enjoyed the Induction at SWCHS this year. Here is some extra information for getting started on the Music Technology course.
 
@@ -11,9 +11,9 @@ Please read all of the information on this page carefully.
 
 Do get in touch with me at ereed-at-swchs.net if you have any questions.
 
-# Lesson 2 Powerpoint
+# Induction Powerpoint
 
-[Click here](https://github.com/reedmusic/reedmusic.github.io/raw/master/mt-induction2024/Music%20Technology%20Induction.pptx) to download our Lesson 2 powerpoint, including course content.
+[Click here](https://github.com/reedmusic/reedmusic.github.io/raw/master/induction/mt/Music%20Technology%20Induction.pptx) to download the powerpoint used during sessions, including course content.
 
 
 # Preparing for September
@@ -49,13 +49,13 @@ Here are some suggestions:
 * Audio Technica ATH-M50X
 * Beyerdynamic DT770
 
-**You will need a suitable set by September 23rd at the latest.**
+**You will need a suitable set by September 22nd at the latest.**
 
 Again, please email if you have any questions.
 
 ## 3. Revision Guide
 
-The Revision Guide (RRP £13.99) is excellent. It is concise and covers most of the course content. Make sure you buy the ‘A Level’ and not ‘AS Level’ version. It is not just for revision: we will be referring to the diagrams and explanations routniely during lessons. You will be asked to bring this every lesson, along with your headphones.
+The Revision Guide (RRP £15.50, usually available around £12) is excellent. It is concise and covers most of the course content. Make sure you buy the ‘A Level’ and not ‘AS Level’ version. It is not just for revision: we will be referring to the diagrams and explanations routniely during lessons. You will be asked to bring this every lesson, along with your headphones.
 
 * [Amazon](https://www.amazon.co.uk/Edexcel-Level-Music-Technology-Revision/dp/1785586343)
 * [Musicroom](https://www.musicroom.com/edexcel-a-level-music-technology-revision-guide-rhg348)
@@ -63,7 +63,7 @@ The Revision Guide (RRP £13.99) is excellent. It is concise and covers most of 
 
 Shops are often out of stock when everyone starts courses in September, so buying this in advance is a good idea.
 
-**You will need a copy by September 23rd at the latest.**
+**You will need a copy by September 29th at the latest.**
 
 ## ...The world of Music Tech
 
