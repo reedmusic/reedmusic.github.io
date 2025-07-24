@@ -23,7 +23,7 @@ These are the three important things to sort out before September:
 
 ## 1. Preparation Work
 
-[Click here to download](https://github.com/reedmusic/reedmusic.github.io/raw/master/mt-induction2022/Tech Preparation.docx?raw=true) (you may need to right-click and Save As). 
+[Click here to download](https://github.com/reedmusic/reedmusic.github.io/raw/master/induction/mt/Tech%20Preparation.docx) (you may need to right-click and Save As). 
 
 Please bring this to **your first lesson in September**. Let me know if you have any questions; address above.
 
