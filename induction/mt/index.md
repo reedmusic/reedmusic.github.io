@@ -17,17 +17,15 @@ Do get in touch with me at ereed-at-swchs.net if you have any questions.
 These are the three important things to sort out before September:
 
 1. **Preparation work**: deadline will be our first lesson so that we can discuss in class.
-1. **Headphones**: deadline 23rd September at the latest.
-1. **Revision Guide**: deadline 23rd September at the latest.
+1. **Headphones**: deadline 22nd September at the latest.
+1. **Revision Guide**: deadline 22nd September at the latest.
 
 
 ## 1. Preparation Work
 
-This was provided on paper during Induction. Alternatively, [click here](https://github.com/reedmusic/reedmusic.github.io/raw/master/mt-induction2022/Tech Preparation.docx?raw=true) to download the preparation work (you may need to right-click and Save As). Please bring this to **your first lesson in September**. Let me know if you have any questions; address above.
+[Click here to download](https://github.com/reedmusic/reedmusic.github.io/raw/master/mt-induction2022/Tech Preparation.docx?raw=true) (you may need to right-click and Save As). 
 
-### Getting ready guide (optional enrichment)
-
-To help students get ahead for their new course, the school has published a series of optional activities to bridge the gap between Y11 and Y12. Visit the [school website](https://www.swchs.net/page/?title=A%2DLEVEL+Music+Technology&pid=324) to download this 'Getting Ready' document.
+Please bring this to **your first lesson in September**. Let me know if you have any questions; address above.
 
 ## 2. Headphones
 
@@ -61,7 +59,13 @@ Shops are often out of stock when everyone starts courses in September, so buyin
 
 **You will need a copy by September 29th at the latest.**
 
-## and finally 4...The world of Music Tech
+
+## 4. Getting ready guide (optional enrichment)
+
+To help students get ahead for their new course, the school has published a series of optional activities to bridge the gap between Y11 and Y12. Visit the [school website](https://www.swchs.net/page/?title=A%2DLEVEL+Music+Technology&pid=324) to download this 'Getting Ready' document.
+
+
+## and finally 5...The world of Music Tech
 
 Our highest-achieving students are avid listeners, readers and engineers. Here are more things they enjoy:
 
@@ -74,6 +78,7 @@ Our highest-achieving students are avid listeners, readers and engineers. Here a
 
 * [Daniel Plewinski: Music Technology Guide](https://www.amazon.co.uk/Level-Music-Technology-Guide-Specification/dp/1979270546/)
 * [David Miles Huber: Modern Recording Techniques](https://www.amazon.co.uk/Recording-Techniques-Engineering-Society-Presents/dp/1138954373/)
+* [Mike Senior: Mixing secrets for the small studio](https://cambridge-mt.com/ms/mtk/)
 
 
 # Course content for reference
