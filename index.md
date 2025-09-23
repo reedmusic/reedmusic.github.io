@@ -30,7 +30,7 @@ Prospective Year 12 students please find Summer preparatory work here:
 * Junior Jazz Band
 	* [I feel the earth move](https://github.com/reedmusic/reedmusic.github.io/raw/master/jb/IFTEM.pdf)
 
-* [Academy Jazz Charts](
+* [Academy Jazz Charts](academy/jazz.html)
 
 * Year 9
 	* [Ukulele chord sheet](https://www.lunaguitars.com/pdf/Uke-Chord-Chart.pdf)
