@@ -25,21 +25,11 @@ Prospective Year 12 students please find Summer preparatory work here:
 
 <hr>
 
-
 # For students
 
-* [Academy music library](https://github.com/reedmusic/reedmusic.github.io/tree/master/academy/library)
+## Academy music library(https://github.com/reedmusic/reedmusic.github.io/tree/master/academy/library)
 
-* [Another link](academy/library)
-
-* Year 9
-	* [Ukulele chord sheet](https://www.lunaguitars.com/pdf/Uke-Chord-Chart.pdf)
-  
-* Year 8
-	
-	* [All About You Questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=wkFzQD20TkC8a5Jt2e28sZR0nD1CTQdDg_NfhdTAo2hUMEo5Vk1SOEhJNkZLV04wSjQyOU9LMzFRQy4u)
-	* &#127918; [Music and Gaming pages](https://swchsmusic.gitbook.io/y8-music/gaming-and-music/chiptune)
-	* [Battle of Britain Cubase](https://github.com/MrReedSWCHS/mrreedswchs.github.io/raw/master/y8/BattleOfBritain.zip)
+## [AL Music](/exercises)
 
 <!--
 * [VIP Studio Sessions](https://swchsmusic.gitbook.io/y8-music/vip-studio-sessions/logging-in)
