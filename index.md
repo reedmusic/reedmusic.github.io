@@ -12,9 +12,9 @@
 
 <!---
 # Induction 2025
-<!---
+
 * [Music Tech lesson project](https://github.com/reedmusic/reedmusic.github.io/raw/master/induction/mt/proj.zip)
---->
+
 
 Prospective Year 12 students please find Summer preparatory work here:
 
