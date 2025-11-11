@@ -27,9 +27,9 @@ Prospective Year 12 students please find Summer preparatory work here:
 
 # For students
 
-## Academy music library(https://github.com/reedmusic/reedmusic.github.io/tree/master/academy/library)
+[Academy music library](https://github.com/reedmusic/reedmusic.github.io/tree/master/academy/library)
 
-## [AL Music](/exercises)
+[AL Music](/exercises)
 
 <!--
 * [VIP Studio Sessions](https://swchsmusic.gitbook.io/y8-music/vip-studio-sessions/logging-in)
@@ -38,13 +38,6 @@ Prospective Year 12 students please find Summer preparatory work here:
 
 * [Professional links](links.html)
 -->
-
-
-* AL Music
-	* [Exercises](/exercises)
-
-
-
 
 <hr>
 
