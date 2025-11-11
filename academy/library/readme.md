@@ -14,8 +14,5 @@ You can navigate back to the downloaded PDF...
 
 Where to find the Downloads folder:
 
-![Images/files.png]
+!(./Images/1.png)
 
-![images/1.png]
-
-![images/2.png]
