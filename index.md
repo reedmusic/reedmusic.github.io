@@ -10,29 +10,25 @@
 -->
 
 
+<!---
 # Induction 2025
 <!---
 * [Music Tech lesson project](https://github.com/reedmusic/reedmusic.github.io/raw/master/induction/mt/proj.zip)
 --->
 
-
 Prospective Year 12 students please find Summer preparatory work here:
 
 *  &#9835; [Music](https://github.com/reedmusic/reedmusic.github.io/raw/master/induction/mu/Music%20Preparation.docx)
 * &#127908; [Music Technology](/induction/mt) 
+-->
 
 
 <hr>
 
 
-# For current students
+# For students
 
-* Junior Jazz Band
-	* [I feel the earth move](https://github.com/reedmusic/reedmusic.github.io/raw/master/jb/IFTEM.pdf)
-
-* [Academy Jazz Charts](academy/jazz.html)
-* [Test link](https://github.com/reedmusic/reedmusic.github.io/tree/master/academy/jazz)
-* [Xmas fakebook](https://github.com/reedmusic/reedmusic.github.io/tree/master/academy/jazz/public-xmas)
+* Academy music library[http://]
 
 * Year 9
 	* [Ukulele chord sheet](https://www.lunaguitars.com/pdf/Uke-Chord-Chart.pdf)
