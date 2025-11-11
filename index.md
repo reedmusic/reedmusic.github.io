@@ -28,7 +28,9 @@ Prospective Year 12 students please find Summer preparatory work here:
 
 # For students
 
-* Academy music library[https://github.com/reedmusic/reedmusic.github.io/tree/master/academy/library]
+* [Academy music library](https://github.com/reedmusic/reedmusic.github.io/tree/master/academy/library)
+
+* [Another link](academy/library)
 
 * Year 9
 	* [Ukulele chord sheet](https://www.lunaguitars.com/pdf/Uke-Chord-Chart.pdf)
