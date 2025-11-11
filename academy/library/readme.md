@@ -11,7 +11,3 @@ You can navigate back to the downloaded PDF...
 1. Click the physical home button at the bottom of the iPad
 2. Find the Files App
 3. Find Downloads folder.
-
-Where to find the Downloads folder:
-
-![](/Images/1.png)
