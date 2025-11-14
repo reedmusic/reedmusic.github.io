@@ -23,7 +23,6 @@ Prospective Year 12 students please find Summer preparatory work here:
 --->
 
 
-<hr>
 
 # For students
 
@@ -38,6 +37,8 @@ Prospective Year 12 students please find Summer preparatory work here:
 
 * [Professional links](links.html)
 -->
+
+[Gaming and music lesson](https://swchsmusic.gitbook.io/y8-music/term1a/lesson-1)
 
 <hr>
 
