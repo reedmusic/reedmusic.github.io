@@ -1,3 +1,8 @@
+---
+layout: wide
+title: MuseScore Course
+---
+
 ## MuseScore Course
 
 <https://www.youtube.com/watch?v=xm1-XkS9VzA>
