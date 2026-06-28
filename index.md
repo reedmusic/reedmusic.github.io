@@ -13,14 +13,16 @@
 
 # Induction 2026
 
+Prospective A Level Music students, please find the Summer preparatory work here:
+
+1. [Worksheet document and introduction](https://github.com/reedmusic/reedmusic.github.io/raw/master/induction/mu/Music%20Preparation.docx)
+2. [MuseScore crash course document](https://github.com/reedmusic/reedmusic.github.io/raw/master/induction/mu/musescore_crash_course.docx)
+3. ['Happy Birthday' MuseScore file](https://github.com/reedmusic/reedmusic.github.io/raw/master/induction/mu/happy_birthday.mscz)
+
 
 <!---
 * [Music Tech lesson project](https://github.com/reedmusic/reedmusic.github.io/raw/master/induction/mt/proj.zip)
 --->
-
-Prospective Year 12 students please find Summer preparatory work here:
-
-*  &#9835; [Music](https://github.com/reedmusic/reedmusic.github.io/raw/master/induction/mu/Music%20Preparation.docx)
 
 <!---
 * &#127908; [Music Technology](/induction/mt) 
